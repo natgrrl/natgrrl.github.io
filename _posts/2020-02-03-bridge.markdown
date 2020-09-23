@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Junior Bridge Build Contest"
+title: "Junior Bridge Building Contest"
 date: 2020-02-03
 description: For my Junior year in the Engineering strand at the Governor's School for Science & Technology we had to design a bridge in CAD, laser cut it from foam, glue it together and compete to see whose could handle the most weight. # Add post description (optional)
 img: Bridge1.jpg # Add image post (optional)
