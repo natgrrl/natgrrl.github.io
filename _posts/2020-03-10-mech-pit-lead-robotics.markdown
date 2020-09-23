@@ -13,9 +13,8 @@ As my FRC team's mechanical lead, I am responsible for designing and building th
 ## PIT CREW LEAD
 As my FRC team's pit crew lead, I am responsible for debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions.
 
-![robot1](http://natgrrl.github.io/assets/img/robot1.jpg)
-
 ## 2021 ROBOT
+TBD Pandemic 2020
 
 ## 2020 ROBOT
 ![robot1](http://natgrrl.github.io/assets/img/robot1.jpg)
@@ -24,9 +23,9 @@ As my FRC team's pit crew lead, I am responsible for debugging mechanical and no
 ![robot2](http://natgrrl.github.io/assets/img/robot2.jpg)
 
 ## 2018 ROBOT
-![robot3a](http://natgrrl.github.io/assets/img/robota.jpg)
-![robot3b](http://natgrrl.github.io/assets/img/robotb.jpg)
-![robot3c](http://natgrrl.github.io/assets/img/robotc.jpg)
+![robot3a](http://natgrrl.github.io/assets/img/robot3a.jpg)
+![robot3b](http://natgrrl.github.io/assets/img/robot3b.jpg)
+![robot3c](http://natgrrl.github.io/assets/img/robot3c.jpg)
 
 ## 2017 ROBOT
 ![robot4](http://natgrrl.github.io/assets/img/robot4.jpg)
