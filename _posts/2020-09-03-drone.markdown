@@ -2,7 +2,7 @@
 layout: post
 title: "FPV Drone Build & Competition"
 date: 2020-09-03
-description:FPV Drone Build & Competition. # Add post description (optional)
+description: FPV Drone Build & Competition. # Add post description (optional)
 img: drone1.jpg # Add image post (optional)
 tags: [ENGINEERING]
 ---
