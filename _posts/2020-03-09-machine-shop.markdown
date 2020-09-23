@@ -31,3 +31,6 @@ Experienced with using machine shop tools, including mill, lathe, drill press, m
 ![shop11](http://natgrrl.github.io/assets/img/shop11.jpg)
 
 ![shop12](http://natgrrl.github.io/assets/img/shop12.jpg)
+
+![shop13](http://natgrrl.github.io/assets/img/shop13.jpg)
+
