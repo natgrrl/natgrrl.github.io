@@ -3,7 +3,7 @@ layout: post
 title: "Junior Bridge Build Contest"
 date: 2020-02-03
 description: For my Junior year in the Engineering strand at the Governor's School for Science & Technology we had to design a bridge in CAD, laser cut it from foam, glue it together and compete to see whose could handle the most weight. # Add post description (optional)
-img: bridge1.jpg # Add image post (optional)
+img: Bridge1.jpg # Add image post (optional)
 tags: [ENGINEERING, CAD]
 ---
 
@@ -12,7 +12,7 @@ tags: [ENGINEERING, CAD]
 For my Junior year in the Engineering strand at the Governor's School for Science & Technology we had to design a bridge in CAD, laser cut it from foam, glue it together and compete to see whose could handle the most weight.  
 
 
-![bridge1](http://natgrrl.github.io/assets/img/bridge1.jpg)
+![Bridge1](http://natgrrl.github.io/assets/img/Bridge1.jpg)
 
 ![bridge2](http://natgrrl.github.io/assets/img/bridge2.jpg)
 
