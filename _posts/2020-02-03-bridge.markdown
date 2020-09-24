@@ -11,9 +11,9 @@ tags: [ENGINEERING, CAD]
 ## OVERVIEW
 For my Junior year in the Engineering strand at the Governor's School for Science & Technology we had to design a bridge in CAD. I designed our bridge in CAD, specifically OnShape. It was then laser cut from foam board, and we glued it together.  Below is a picture of the final bridge.
 
-![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.jpg)
+![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png)
 
-![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.jpg)
+![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png)
 
 ![Bridge1](http://natgrrl.github.io/assets/img/Bridge1.jpg)
 
