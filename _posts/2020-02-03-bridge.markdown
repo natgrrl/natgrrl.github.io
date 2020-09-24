@@ -9,10 +9,11 @@ tags: [ENGINEERING, CAD]
 
 
 ## OVERVIEW
-For my Junior year in the Engineering strand at the Governor's School for Science & Technology we had to design a bridge in CAD, laser cut it from foam, glue it together and compete to see whose could handle the most weight.  
-
+For my Junior year in the Engineering strand at the Governor's School for Science & Technology we had to design a bridge in CAD. I designed our bridge in CAD, specifically OnShape. It was then laser cut from foam board, and we glued it together.  Below is a picture of the final bridge.
 
 ![Bridge1](http://natgrrl.github.io/assets/img/Bridge1.jpg)
+
+Contest results: It held 108.4 lbs!! As far as anyone knows it was the all time record for weight.  The 2nd place bridge, in this competition, held 40 something lbs.
 
 ![bridge4](http://natgrrl.github.io/assets/img/bridge4.png)
 
