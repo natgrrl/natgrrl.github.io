@@ -1,0 +1,35 @@
+---
+layout: post
+title: "CAD Experience"
+date: 2020-03-07
+description: I have created a number of designs using Computer Aided Design(CAD). # Add post description (optional)
+img: cad1.jpg # Add image post (optional)
+tags: [ENGINEERING]
+---
+
+
+
+
+## OVERVIEW
+
+I have created a number of designs using Computer Aided Design(CAD).
+
+![cad-bench](http://natgrrl.github.io/assets/img/cad-bench.png)
+
+![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png)
+
+![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png)
+
+![cad-desk](http://natgrrl.github.io/assets/img/cad-desk.png)
+
+![cad-guitar](http://natgrrl.github.io/assets/img/cad-guitar.png)
+
+![cad-joystick](http://natgrrl.github.io/assets/img/cad-joystick.png)
+
+![cad-keychain](http://natgrrl.github.io/assets/img/cad-keychain.png)
+
+![cad-nerf](http://natgrrl.github.io/assets/img/cad-nerf.png)
+
+![cad-probe1](http://natgrrl.github.io/assets/img/cad-probe1.png)
+
+![cad-probe2](http://natgrrl.github.io/assets/img/cad-probe2.png)
