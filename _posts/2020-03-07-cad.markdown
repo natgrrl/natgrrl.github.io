@@ -14,13 +14,13 @@ tags: [CAD, ENGINEERING]
 
 I have created a number of designs using Computer Aided Design(CAD).
 
+![cad-desk](http://natgrrl.github.io/assets/img/cad-desk.png)
+
 ![cad-bench](http://natgrrl.github.io/assets/img/cad-bench.png)
 
 ![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png)
 
 ![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png)
-
-![cad-desk](http://natgrrl.github.io/assets/img/cad-desk.png)
 
 ![cad-guitar](http://natgrrl.github.io/assets/img/cad-guitar.png)
 
