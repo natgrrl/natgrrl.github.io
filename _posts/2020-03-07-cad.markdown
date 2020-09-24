@@ -22,7 +22,8 @@ CAD | FINAL PRODUCT
 --- | -------------
 ![cad-desk](http://natgrrl.github.io/assets/img/cad-desk.png) |  ![cad-desk2](http://natgrrl.github.io/assets/img/cad-desk2.jpg)
 
-## MY JUNIOR BRIDGE BUILD (for competition)
+## MY JUNIOR BRIDGE BUILD:
+For my Junior year in the Engineering strand at the Governor’s School for Science & Technology we had to design a bridge in CAD. I designed our bridge in CAD, specifically OnShape. It was then laser cut from foam board, and we glued it together. It held 108.4 lbs!! As far as anyone knows it was the all time record for weight. The 2nd place bridge, in this competition, held 40 something lbs.
 
 CAD | STL FOR LASER CUTTING | BRIDGE 
 --- | --------------------- | ------
