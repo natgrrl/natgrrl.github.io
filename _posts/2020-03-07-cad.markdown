@@ -3,7 +3,7 @@ layout: post
 title: "CAD Experience"
 date: 2020-03-07
 description: I have created a number of designs using Computer Aided Design(CAD). # Add post description (optional)
-img: cad1.jpg # Add image post (optional)
+img: cad-joystick.png # Add image post (optional)
 tags: [ENGINEERING]
 ---
 
