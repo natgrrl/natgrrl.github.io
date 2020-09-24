@@ -3,15 +3,15 @@ layout: post
 title: "STEM Outreach & Volunteering"
 date: 2015-06-15
 description: STEM Outreach & Volunteering # Add post description (optional)
-img: outreach3.jpg # Add image post (optional)
+img: outreach3.JPG # Add image post (optional)
 tags: [VOLUNTEERING]
 ---
 
 ## ROBOTICS CAMP COUNSELOR, JULY 2015 & 2016
 
-![outreach1](http://natgrrl.github.io/assets/img/outreach1.jpg)
-![outreach2](http://natgrrl.github.io/assets/img/outreach2.jpg)
-![outreach3](http://natgrrl.github.io/assets/img/outreach3.jpg)
+![outreach1](http://natgrrl.github.io/assets/img/outreach1.JPG)
+![outreach2](http://natgrrl.github.io/assets/img/outreach2.JPG)
+![outreach3](http://natgrrl.github.io/assets/img/outreach3.JPG
 
 ## RUMBLE IN THE ROADS
 
