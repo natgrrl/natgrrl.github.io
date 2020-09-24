@@ -1,0 +1,34 @@
+---
+layout: post
+title: "STEM Outreach & Volunteering"
+date: 2015-06-15
+description: STEM Outreach & Volunteering # Add post description (optional)
+img: outreach3.jpg # Add image post (optional)
+tags: [VOLUNTEERING]
+---
+
+## ROBOTICS CAMP COUNSELOR, JULY 2015 & 2016
+
+![outreach1](http://natgrrl.github.io/assets/img/outreach1.jpg)
+![outreach2](http://natgrrl.github.io/assets/img/outreach2.jpg)
+![outreach3](http://natgrrl.github.io/assets/img/outreach3.jpg)
+
+## RUMBLE IN THE ROADS
+
+## CNU STEM DAY 
+
+## NNPS SAGE EXPO
+
+## NAS OCEANA AIR SHOW DEMO
+
+## HAMPTION ROADS MINI MAKER FAIRE DEMO
+
+## CHROME CLUB DEMO
+
+## LEWIS GINTER GARDENS DEMO
+
+
+
+
+
+
