@@ -26,7 +26,9 @@ CAD | FINAL PRODUCT
 
 CAD | STL FOR LASER CUTTING | BRIDGE 
 --- | --------------------- | ------
-![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png) | ![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png) |![cad-bench](http://natgrrl.github.io/assets/img/cad-bench.png)
+![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png) | ![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png) | ![bridge](http://natgrrl.github.io/assets/img/Bridge1.png)
+
+![cad-bench](http://natgrrl.github.io/assets/img/cad-bench.png)
 
 ![cad-guitar](http://natgrrl.github.io/assets/img/cad-guitar.png)
 
