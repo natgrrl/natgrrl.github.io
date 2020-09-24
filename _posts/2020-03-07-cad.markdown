@@ -18,8 +18,8 @@ I have created a number of designs using Computer Aided Design(CAD).
 
 I needed as desk in my room, so I searched the internet for various pictures of desks.  Then I create the desk in CAD using OnShape. 
 
-CAD | FINAL PRODUCT
---- | -------------
+CAD           | FINAL PRODUCT
+------------- | -------------
 ![cad-desk](http://natgrrl.github.io/assets/img/cad-desk.png) |  ![cad-desk2](http://natgrrl.github.io/assets/img/cad-desk2.jpg)
 
 ![cad-bench](http://natgrrl.github.io/assets/img/cad-bench.png)
