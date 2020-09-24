@@ -23,9 +23,10 @@ TBD Pandemic 2020
 ![robot2](http://natgrrl.github.io/assets/img/robot2.jpg)
 
 ## 2018 ROBOT
-![robot3a](http://natgrrl.github.io/assets/img/robot3a.jpg)
-![robot3b](http://natgrrl.github.io/assets/img/robot3b.jpg)
-![robot3c](http://natgrrl.github.io/assets/img/robot3c.jpg)
+
+ELEVATOR LOW | ELEVATOR HIGH | ADDED RAMPS
+------------ | ------------- | ----------- 
+![robot3b](http://natgrrl.github.io/assets/img/robot3b.jpg) | ![robot3a](http://natgrrl.github.io/assets/img/robot3a.jpg) | ![robot3c](http://natgrrl.github.io/assets/img/robot3c.jpg)
 
 ## 2017 ROBOT
 ![robot4](http://natgrrl.github.io/assets/img/robot4.jpg)
