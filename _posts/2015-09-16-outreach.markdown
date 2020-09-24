@@ -7,7 +7,7 @@ img: outreach3.JPG # Add image post (optional)
 tags: [VOLUNTEERING]
 ---
 
-## ROBOTICS CAMP COUNSELOR, JULY 2015 & 2016
+## ROBOTICS CAMP COUNSELOR, JULY 2016
 
 ![outreach1](http://natgrrl.github.io/assets/img/outreach1.JPG)
 ![outreach2](http://natgrrl.github.io/assets/img/outreach2.JPG)
