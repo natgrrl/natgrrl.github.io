@@ -3,7 +3,7 @@ layout: post
 title: "Junior Research Project"
 date: 2020-01-03
 description: For Junior year in the Engineering strand at the Governor's School for Science & Technology, my research project was....  . # Add post description (optional)
-img: project1.jpg # Add image post (optional)
+img: cad-probe1.png # Add image post (optional)
 tags: [ENGINEERING, CAD]
 ---
 
