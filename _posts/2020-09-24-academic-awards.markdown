@@ -19,34 +19,23 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 
 ## LEADERSHIP
 
-Mechanical Fabrication Lead for FRC Team #2363 Triple Helix Robotics
-
-Pit Crew Lead for FRC Team #2363 Triple Helix Robotics
-
-Vice President of the National Honor Society at Menchville High School
-
-Triple Helix team POC / Coordinator for an ongoing collaboration with the NNPS school district’s Assistive Technology Coordinator.
+* Mechanical Fabrication Lead for FRC Team #2363 Triple Helix Robotics
+* Pit Crew Lead for FRC Team #2363 Triple Helix Robotics
+* Vice President of the National Honor Society at Menchville High School
+* Triple Helix team POC / Coordinator for an ongoing collaboration with the NNPS school district’s Assistive Technology Coordinator.
 
 
 ## AWARDS
 
-MHS Top Ranked Student for 9th, 10th, 11th grade & so far 12th grade
-
-2020 FIRST Robotics Competition Dean’s List Nominee
-
-AP Scholar with Honors
-
-President’s Education Award for Outstanding Academic Excellence
-
-Vice President of National Junior Honor Society at MHS
-
-VA House of Delegates Certificate of Distinction
-
-2nd place in BTW MS Science Fair for IoT Environment Project
-
-1st Place Rotary Club special award at City Science Fair for IoT Environment Project
-
-Jewish Community Center Holocaust Writing Award
+* MHS Top Ranked Student for 9th, 10th, 11th grade & so far 12th grade
+* 2020 FIRST Robotics Competition Dean’s List Nominee
+* AP Scholar with Honors
+* President’s Education Award for Outstanding Academic Excellence
+* Vice President of National Junior Honor Society at MHS
+* VA House of Delegates Certificate of Distinction
+* 2nd place in BTW MS Science Fair for IoT Environment Project
+* 1st Place Rotary Club special award at City Science Fair for IoT Environment Project
+* Jewish Community Center Holocaust Writing Award
 
 
 
