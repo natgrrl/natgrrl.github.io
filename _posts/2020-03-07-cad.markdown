@@ -37,7 +37,9 @@ PROBE CAD | PROBE SPEC
 
 ![cad-guitar](http://natgrrl.github.io/assets/img/cad-guitar.png)
 
-![cad-joystick](http://natgrrl.github.io/assets/img/cad-joystick.png)
+JOYSTICK CAD | JOTSTICK IN AT CAR
+------------ | ------------------
+![cad-joystick](http://natgrrl.github.io/assets/img/cad-joystick.png) | ![car](http://natgrrl.github.io/assets/img/at1.jpg)
 
 ![cad-keychain](http://natgrrl.github.io/assets/img/cad-keychain.png)
 
