@@ -12,7 +12,9 @@ Experienced with using machine shop tools, including mill, lathe, drill press, m
 
 ## GEAR BOX HEX SHAFTS I MADE ON THE LATHE & BANDSAW
 
-![shop2](http://natgrrl.github.io/assets/img/shop2.jpg) |  ![hax-shafts](http://natgrrl.github.io/assets/img/shop-hex-shafts.jpg)
+DRILLING OUT THE CENTER ON LATHE | FINISHED HEX SHAFTS
+-------------------------------- | -------------------
+![hax-shafts](http://natgrrl.github.io/assets/img/shop-hex-shafts.jpg) | ![shop1](http://natgrrl.github.io/assets/img/shop2.jpg)
 
 ![shop2](http://natgrrl.github.io/assets/img/shop2.jpg)
 
