@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Academics & Awards"
+title: "Academics, Leadership & Awards"
 date: 2020-09-24
-description: Acadmeics & Awards # Add post description (optional)
+description: Academics, Leadership & Awards # Add post description (optional)
 img: academics1.jpg # Add image post (optional)
-tags: [ACADEMICS, AWARDS]
+tags: [ACADEMICS, AWARDS, LEADERSHIP]
 ---
 
 ## ACADEMICS
@@ -24,14 +24,13 @@ Waiting to hear if I have earned my bilingual certification in Spanish.
 
 ## LEADERSHIP
 
-Mechanical Fabrication Lead for FRC Team #2363 Triple Helix Robotics Team
+Mechanical Fabrication Lead for FRC Team #2363 Triple Helix Robotics
 
-Pit Crew Lead for FRC Team #2363 Triple Helix Robotics Team
+Pit Crew Lead for FRC Team #2363 Triple Helix Robotics
 
 Vice President of the National Honor Society at Menchville High School
 
-POC / Coordinator  for an ongoing collaboration with the NNPS school district’s Assistive Technology Coordinator.
-
+Triple Helix team POC / Coordinator for an ongoing collaboration with the NNPS school district’s Assistive Technology Coordinator.
 
 
 ## AWARDS
