@@ -10,6 +10,10 @@ tags: [ENGINEERING]
 ## OVERVIEW
 Experienced with using machine shop tools, including mill, lathe, drill press, mitre saw, band saw, hand drills, soldering, belt sanders, dremels, angle grinders, etc.
 
+## GEAR BOX HEX SHAFTS I MADE ON THE LATHE & BANDSAW
+
+![shop2](http://natgrrl.github.io/assets/img/shop2.jpg) |  ![hax-shafts](http://natgrrl.github.io/assets/img/shop-hex-shafts.jpg)
+
 ![shop2](http://natgrrl.github.io/assets/img/shop2.jpg)
 
 ![shop3](http://natgrrl.github.io/assets/img/shop3.jpg)
