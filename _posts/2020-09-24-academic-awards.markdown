@@ -22,9 +22,21 @@ Currently taking 7 more AP or dual enrolled college classes through GSST’s eng
 Waiting to hear if I have earned my bilingual certification in Spanish.
 
 
+## LEADERSHIP
+
+Mechanical Fabrication Lead for FRC Team #2363 Triple Helix Robotics Team
+
+Pit Crew Lead for FRC Team #2363 Triple Helix Robotics Team
+
+Vice President of the National Honor Society at Menchville High School
+
+POC / Coordinator  for an ongoing collaboration with the NNPS school district’s Assistive Technology Coordinator.
+
+
+
 ## AWARDS
 
-MHS Top Ranked Student for 9th, 10th & 11th grade
+MHS Top Ranked Student for 9th, 10th, 11th grade & so far 12th grade
 
 2020 FIRST Robotics Competition Dean’s List Nominee
 
@@ -35,8 +47,6 @@ President’s Education Award for Outstanding Academic Excellence
 Vice President of National Junior Honor Society at MHS
 
 VA House of Delegates Certificate of Distinction
-
-8th grade Science, Spanish, PE & Marine Science Awards
 
 2nd place in BTW MS Science Fair for IoT Environment Project
 
