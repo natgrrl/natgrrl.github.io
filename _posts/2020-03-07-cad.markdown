@@ -3,7 +3,7 @@ layout: post
 title: "CAD Experience"
 date: 2020-03-07
 description: I have created a number of designs using Computer Aided Design(CAD). # Add post description (optional)
-img: cad-joystick.png # Add image post (optional)
+img: cad-bridge1.png # Add image post (optional)
 tags: [CAD, ENGINEERING]
 ---
 
@@ -29,6 +29,10 @@ CAD | STL FOR LASER CUTTING | BRIDGE
 --- | --------------------- | ------
 ![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png) | ![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png) | ![bridge](http://natgrrl.github.io/assets/img/Bridge1.jpg)
 
+PROBE CAD | PROBE SPEC
+--------- | ----------
+![cad-probe1](http://natgrrl.github.io/assets/img/cad-probe1.png) | ![cad-probe2](http://natgrrl.github.io/assets/img/cad-probe2.png)
+
 ![cad-bench](http://natgrrl.github.io/assets/img/cad-bench.png)
 
 ![cad-guitar](http://natgrrl.github.io/assets/img/cad-guitar.png)
@@ -39,6 +43,4 @@ CAD | STL FOR LASER CUTTING | BRIDGE
 
 ![cad-nerf](http://natgrrl.github.io/assets/img/cad-nerf.png)
 
-![cad-probe1](http://natgrrl.github.io/assets/img/cad-probe1.png)
 
-![cad-probe2](http://natgrrl.github.io/assets/img/cad-probe2.png)
