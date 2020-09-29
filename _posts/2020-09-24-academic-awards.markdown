@@ -11,7 +11,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 
 * Senior at Menchville High School:  Rank 1 out of 330 with a 4.64 GPA. 
 * Governor’s School for Science and Technology (GSST) Engineering Strand Senior
-* NASA Mentorship with a PhD in Aerospace Engineering
+* [NASA Mentorship](https://natgrrl.github.io/nasa-mentorship/)
 * Virginia Aerospace Science and Technology Scholar [(VASTS)](https://vsgc.odu.edu/vasts/)
 * Virginia Space Coast Science Scholar [(VSCS)](https://vsgc.odu.edu/spacecoast/)
 * AP Courses Completed: 7 with all A's, including AP Calculus BC (9th grade) and AP Statistics (10th grade).
