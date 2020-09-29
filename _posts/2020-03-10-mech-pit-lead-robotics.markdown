@@ -69,6 +69,7 @@ AWARDS:
 * FIRST Chesapeake District Championship Finalist (Rank 9) and Gracious Professionalism Award  
 * Advanced to Worlds in Archimedes Division.
 
-ROBOT | ROBOT CLIMB | ROBOT SHOOTING
------ | ------------- | ----------- 
-![robot4](http://natgrrl.github.io/assets/img/robot4.jpg) 
+ROBOT | ROBOT CLIMB   | ROBOT & TEAM
+----- | ------------- | ------------ 
+![robot4](http://natgrrl.github.io/assets/img/robot4.jpg)  | ![robot4d](http://natgrrl.github.io/assets/img/robot4d.jpg) | ![robot4e](http://natgrrl.github.io/assets/img/robot4e.jpg)
+
