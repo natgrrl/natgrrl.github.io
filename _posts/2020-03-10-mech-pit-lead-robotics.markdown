@@ -42,9 +42,9 @@ AWARDS:
 * 2019 FIRST Chesapeake District Championship Creativity Award  
 * Rank 18 -  Missed World Championship in Detroit by 2 spots.
 
-ROBOT | ROBOT WITH BALL | ROBOT WITH HATCH
------ | --------------- | ---------------- 
-![robot2](http://natgrrl.github.io/assets/img/robot2.jpg) | ![robot2a](http://natgrrl.github.io/assets/img/robot2a.jpg) | ![robot2b](http://natgrrl.github.io/assets/img/robot2b.jpg)
+ROBOT | ROBOT WITH BALL | ROBOT WITH HATCH | ROBOT CLIMB
+----- | --------------- | ---------------- | -----------
+![robot2](http://natgrrl.github.io/assets/img/robot2.jpg) | ![robot2a](http://natgrrl.github.io/assets/img/robot2a.jpg) | ![robot2b](http://natgrrl.github.io/assets/img/robot2b.jpg) | ![robot2c](http://natgrrl.github.io/assets/img/robot2c.jpg)
 
 ## 2018 ROBOT
 
