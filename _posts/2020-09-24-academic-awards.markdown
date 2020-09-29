@@ -10,12 +10,12 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 ## ACADEMICS
 
 * Senior at Menchville High School:  Rank 1 out of 330 with a 4.64 GPA. 
-* Governor’s School for Science and Technology (GSST) Engineering strand senior
+* Governor’s School for Science and Technology (GSST) Engineering Strand Senior
 * NASA Mentorship with a PhD in Aerospace Engineering
 * Virginia Aerospace Science and Technology Scholar [(VASTS)](https://vsgc.odu.edu/vasts/)
 * Virginia Space Coast Science Scholar [(VSCS)](https://vsgc.odu.edu/spacecoast/)
 * AP Courses Completed: 7 with all A's, including AP Calculus BC (9th grade) and AP Statistics (10th grade).
-* Earned the College Board’s AP Scholar with Honor award. 
+
 * Currently taking 3 AP courses and 4 dual enrollment college courses. 
 * Waiting to hear if I have earned my bilingual certification in Spanish.
 
@@ -33,7 +33,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 * MHS Top Ranked Student for 9th, 10th, 11th grade & so far 12th grade
 * 2020 FIRST Robotics Competition Dean’s List Nominee
 * Member of the Menchville High School National Honor Society  (Vice president)
-* AP Scholar with Honor
+* Earned the College Board’s AP Scholar with Honor Award
 * President’s Education Award for Outstanding Academic Excellence
 * VA House of Delegates Certificate of Distinction
 * 2nd place in BTW MS Science Fair for IoT Environment Project
