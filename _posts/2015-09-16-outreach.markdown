@@ -8,10 +8,9 @@ tags: [VOLUNTEERING]
 ---
 
 ## ROBOTICS CAMP COUNSELOR, JULY 2016
-
-![outreach1](http://natgrrl.github.io/assets/img/outreach1.JPG)
-![outreach2](http://natgrrl.github.io/assets/img/outreach2.JPG)
-![outreach3](http://natgrrl.github.io/assets/img/outreach3.JPG)
+     |        |       
+---- | ------ | -------
+![outreach1](http://natgrrl.github.io/assets/img/outreach1.JPG) | ![outreach2](http://natgrrl.github.io/assets/img/outreach2.JPG) | ![outreach3](http://natgrrl.github.io/assets/img/outreach3.JPG)
 
 ## RUMBLE IN THE ROADS
 
