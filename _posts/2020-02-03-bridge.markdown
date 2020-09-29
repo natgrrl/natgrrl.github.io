@@ -11,18 +11,15 @@ tags: [ENGINEERING, CAD]
 ## OVERVIEW
 For my Junior year in the Engineering strand at the Governor's School for Science & Technology we had to design a bridge in CAD. I designed our bridge in CAD, specifically OnShape. It was then laser cut from foam board, and we glued it together.  Below is a picture of the final bridge.
 
-![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png)
+CAD | STL FOR LASER CUTTING | FINAL BRIDGE
+--- | --------------------- | ------------
+![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png) | ![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png) | ![Bridge1](http://natgrrl.github.io/assets/img/Bridge1.jpg)
 
-![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png)
-
-![Bridge1](http://natgrrl.github.io/assets/img/Bridge1.jpg)
 
 Contest results: It held 108.4 lbs!! As far as anyone knows it was the all time record for weight.  The 2nd place bridge, in this competition, held 40 something lbs.
 
-![bridge4](http://natgrrl.github.io/assets/img/bridge4.png)
-
-![bridge2](http://natgrrl.github.io/assets/img/bridge2.jpg)
-
-![bridge3](http://natgrrl.github.io/assets/img/bridge3.jpg)
+108.4 Lbs on Bridge | Weight basket below books | What's left of the bridge
+------------------- | ------------------------- | -------------------------
+![bridge4](http://natgrrl.github.io/assets/img/bridge4.png) | ![bridge2](http://natgrrl.github.io/assets/img/bridge2.jpg) | ![bridge3](http://natgrrl.github.io/assets/img/bridge3.jpg)
 
 
