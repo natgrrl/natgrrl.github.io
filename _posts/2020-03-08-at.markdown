@@ -2,7 +2,7 @@
 layout: post
 title: "Assistive Technology Designs & Coordination"
 date: 2020-03-08
-description: I served as the point of contact for an ongoing collaboration with our school district’s Assistive Technology Coordinator. Ourteam’s role in this collaboration is to adapt low-cost toys to connect to accessible switches, enabling students with disabilities to learn cause-effect relationships by triggering the toys’ functions.  # Add post description (optional)
+description: I served as the point of contact for an ongoing collaboration with our school district’s Assistive Technology Coordinator. Our team’s role in this collaboration is to adapt low-cost toys to connect to accessible switches, enabling students with disabilities to learn cause-effect relationships by triggering the toys’ functions.  # Add post description (optional)
 img: at1.jpg # Add image post (optional)
 tags: [ENGINEERING]
 ---
@@ -12,4 +12,6 @@ tags: [ENGINEERING]
 
 ## OVERVIEW
 
-I served as the point of contact for an ongoing collaboration with our school district’s Assistive Technology Coordinator. Ourteam’s role in this collaboration is to adapt low-cost toys to connect to accessible switches, enabling students with disabilities to learn cause-effect relationships by triggering the toys’ functions.
+I served as the point of contact for an ongoing collaboration with our school district’s Assistive Technology Coordinator. Our team’s role in this collaboration is to adapt low-cost toys to connect to accessible switches, enabling students with disabilities to learn cause-effect relationships by triggering the toys’ functions.
+
+[Assistive Technology](http://team2363.org/2020/04/beyond-chairmans-teaming-up-to-build-assistive-tech)
