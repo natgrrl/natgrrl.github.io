@@ -15,7 +15,6 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 * Virginia Aerospace Science and Technology Scholar [(VASTS)](https://vsgc.odu.edu/vasts/)
 * Virginia Space Coast Science Scholar [(VSCS)](https://vsgc.odu.edu/spacecoast/)
 * AP Courses Completed: 7 with all A's, including AP Calculus BC (9th grade) and AP Statistics (10th grade).
-
 * Currently taking 3 AP courses and 4 dual enrollment college courses. 
 * Waiting to hear if I have earned my bilingual certification in Spanish.
 
