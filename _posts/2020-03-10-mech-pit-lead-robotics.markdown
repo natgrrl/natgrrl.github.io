@@ -21,10 +21,12 @@ As my FRC team's pit crew lead, I am responsible for debugging mechanical and no
 TBD Pandemic 2020  -- Doing FPV Drone Build & Competition instead.
 
 ## 2020 ROBOT
+Coronavirus pandemic cut our competition season short, so we were only able to compete at one event.
 
 AWARDS: 
 * FIRST Chesapeake Haymarket, VA Event:  2nd place finalist
 * Won the Engineering Inspiration Award.
+
 
 ![robot1](http://natgrrl.github.io/assets/img/robot1.jpg)
 
