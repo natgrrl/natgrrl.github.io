@@ -30,7 +30,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 ## AWARDS
 
 * MHS Top Ranked Student for 9th, 10th, 11th grade & so far 12th grade
-* 2020 FIRST Robotics Competition Dean’s List Nominee    ([Nomination Letter](http://natgrrl.github.io/assets/DeadsListNat.pdf))
+* 2020 FIRST Robotics Competition Dean’s List Nominee    ([Nomination Letter](http://natgrrl.github.io/assets/DeansListNat.pdf))
 * Member of the Menchville High School National Honor Society  (Vice president)
 * Earned the College Board’s AP Scholar with Honor Award
 * President’s Education Award for Outstanding Academic Excellence
