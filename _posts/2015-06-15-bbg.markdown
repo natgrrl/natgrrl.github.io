@@ -9,11 +9,9 @@ tags: [VOLUNTEERING]
 
 ## BLUEBIRD GAP FARM
 
-![bbg1](http://natgrrl.github.io/assets/img/bbg1.jpg)
-
-![bbg2](http://natgrrl.github.io/assets/img/bbg2.jpg)
-
-![bbg3](http://natgrrl.github.io/assets/img/bbg3.jpg)
+MUFFIN | ANABELLE | DATA
+------ | -------- | ----
+![bbg1](http://natgrrl.github.io/assets/img/bbg1.jpg) | ![bbg2](http://natgrrl.github.io/assets/img/bbg2.jpg) | ![bbg3](http://natgrrl.github.io/assets/img/bbg3.jpg)
 
 ![bbg4](http://natgrrl.github.io/assets/img/bbg4.jpg)
 
