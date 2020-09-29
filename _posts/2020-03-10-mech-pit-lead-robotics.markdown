@@ -67,5 +67,5 @@ AWARDS:
 
 ROBOT | ROBOT CLIMB | ROBOT SHOOTING
 ----- | ------------- | ----------- 
-![robot4](http://natgrrl.github.io/assets/img/robot4.jpg) ! ![robot4b](http://natgrrl.github.io/assets/img/robot4b.jpg) | ![robot4c](http://natgrrl.github.io/assets/img/robot4c.jpg)
+![robot4](http://natgrrl.github.io/assets/img/robot4.jpg) | ![robot4b](http://natgrrl.github.io/assets/img/robot4b.jpg) | ![robot4c](http://natgrrl.github.io/assets/img/robot4c.jpg)
 
