@@ -12,8 +12,8 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 * Senior at Menchville High School:  Rank 1 with a 4.64 GPA. 
 * Governor’s School for Science and Technology (GSST) Engineering strand senior
 * NASA Mentorship with a PhD in Aerospace Engineering
-* Virginia Aerospace Science and Technology Scholar (VASTS)
-* Virginia Space Coast Science Scholar (VSCS)
+* Virginia Aerospace Science and Technology Scholar ([VASTS](https://vsgc.odu.edu/vasts/))
+* Virginia Space Coast Science Scholar ([VSCS](https://vsgc.odu.edu/spacecoast/))
 
 * AP Courses Completed: 7 with all A's, including AP Calculus BC (9th grade), AP Statistics (10th grade).
 * Earned the College Board’s AP Scholar with Honor award. 
