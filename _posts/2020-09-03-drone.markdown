@@ -9,6 +9,6 @@ tags: [ENGINEERING]
 
 
 ## OVERVIEW
-As my robotics team begins a new school year, during a pandemic, myself and other team leaders have been thinking about what kind of STEM engineering we can do, within the restrictions placed on us by the pandemic we’re all living through. 
+As my FRC robotics team begins a new school year, during a pandemic, myself and other team leaders have been thinking about what kind of STEM engineering we can do, within the restrictions placed on us by the pandemic we’re all living through. 
 
-We decided to create the Tele Operated Robotics Competition using FPV Drones -- which can be built by students at home and at the Peninsula STEM Gym, using the tools and techniques that are available to us.
+We decided to create the Tele Operated Robotics Competition using FPV Drones -- which can be built by students at home and at the Peninsula STEM Gym, using the tools and techniques that are available to each team member.
