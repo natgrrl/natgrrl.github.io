@@ -27,7 +27,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 * Mechanical Fabrication Lead for [Triple Helix Robotics](http://team2363.org/) (FRC Team #2363) 
 * Pit Crew Lead for [Triple Helix Robotics](http://team2363.org/) (FRC Team #2363)
 * Vice President of the National Honor Society at Menchville High School
-* [Triple Helix Robotics](http://team2363.org/ team POC / Coordinator for an ongoing collaboration with the NNPS school district’s Assistive Technology Coordinator.
+* [Triple Helix Robotics](http://team2363.org/) team POC / Coordinator for an ongoing collaboration with the NNPS school district’s Assistive Technology Coordinator.
 
 
 ## AWARDS
