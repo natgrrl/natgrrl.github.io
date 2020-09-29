@@ -14,4 +14,6 @@ tags: [ENGINEERING]
 
 I served as the point of contact for an ongoing collaboration with our school district’s Assistive Technology Coordinator. Our team’s role in this collaboration is to adapt low-cost toys to connect to accessible switches, enabling students with disabilities to learn cause-effect relationships by triggering the toys’ functions.
 
-[Our Team's article on our Assistive Technology work.](http://team2363.org/2020/04/beyond-chairmans-teaming-up-to-build-assistive-tech)  I speak in the video here at time mark 21:50.
+This [video](http://team2363.org/2020/04/beyond-chairmans-teaming-up-to-build-assistive-tech) is about the Sierra's, a VCU doctoral student in Occupational Therapy, work with our robotics team in the area of assistive technology.   I speak in the video here at time mark 21:50.
+
+[Go Baby Go!](http://team2363.org/2019/04/accessible-controls-for-ride-on-toy-car)
