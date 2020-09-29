@@ -34,7 +34,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 
 * MHS Top Ranked Student for 9th, 10th, 11th grade & so far 12th grade
 * 2020 FIRST Robotics Competition Dean’s List Nominee
-* Member of the Menchiville High School National Honor Society  (Vice President)
+* Member of the Menchville High School National Honor Society  (Vice president)
 * AP Scholar with Honor
 * President’s Education Award for Outstanding Academic Excellence
 * VA House of Delegates Certificate of Distinction
