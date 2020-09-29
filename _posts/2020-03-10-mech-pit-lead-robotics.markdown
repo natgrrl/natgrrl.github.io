@@ -27,8 +27,10 @@ AWARDS:
 * FIRST Chesapeake Haymarket, VA Event:  2nd place finalist
 * Won the Engineering Inspiration Award.
 
+ROBOT | ROBOT CLIMB | ROBOT SHOOTING
+----- | ----------- | -------------- 
+![robot1](http://natgrrl.github.io/assets/img/robot1.jpg) | ![robot4b](http://natgrrl.github.io/assets/img/robot4b.jpg) | ![robot4c](http://natgrrl.github.io/assets/img/robot4c.jpg)
 
-![robot1](http://natgrrl.github.io/assets/img/robot1.jpg)
 
 ## 2019 ROBOT
 
@@ -40,8 +42,8 @@ AWARDS:
 * 2019 FIRST Chesapeake District Championship Creativity Award  
 * Rank 18 -  Missed World Championship in Detroit by 2 spots.
 
-ROBOT | ROBOT WITH HATCHES | ROBOT WITH BALLS
------ | ------------------ | ---------------- 
+ROBOT | ROBOT WITH BALL | ROBOT WITH HATCH
+----- | --------------- | ---------------- 
 ![robot2](http://natgrrl.github.io/assets/img/robot2.jpg) | ![robot2a](http://natgrrl.github.io/assets/img/robot2a.jpg) | ![robot2b](http://natgrrl.github.io/assets/img/robot2b.jpg)
 
 ## 2018 ROBOT
@@ -69,5 +71,4 @@ AWARDS:
 
 ROBOT | ROBOT CLIMB | ROBOT SHOOTING
 ----- | ------------- | ----------- 
-![robot4](http://natgrrl.github.io/assets/img/robot4.jpg) | ![robot4b](http://natgrrl.github.io/assets/img/robot4b.jpg) | ![robot4c](http://natgrrl.github.io/assets/img/robot4c.jpg)
-
+![robot4](http://natgrrl.github.io/assets/img/robot4.jpg) 
