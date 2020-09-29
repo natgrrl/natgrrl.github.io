@@ -10,10 +10,15 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 ## ACADEMICS
 
 * Senior at Menchville High School:  Rank 1 with a 4.64 GPA. 
-* Engineering strand senior at the Governor’s School for Science and Technology (GSST).
-* Completed AP Calculus BC (9th grade) and AP Statistics (10th grade) with all As.
-* Have completed 7 AP classes and earned the College Board’s AP Scholar with Honor award. 
-* Currently taking 7 more AP or dual enrolled college classes through GSST’s engineering strand & MHS/ TNCC / Virtual VA Online. 
+* Governor’s School for Science and Technology (GSST) Engineering strand senior
+* NASA Mentorship with a PhD in Aerospace Engineering
+* Virginia Aerospace Science and Technology Scholar (VASTS)
+* Virginia Space Coast Science Scholar (VSCS)
+
+* AP Courses Completed: 7 with all A's, including AP Calculus BC (9th grade), AP Statistics (10th grade).
+* Earned the College Board’s AP Scholar with Honor award. 
+* Currently taking 3 AP courses and 4 dual enrollment college courses. 
+
 * Waiting to hear if I have earned my bilingual certification in Spanish.
 
 
