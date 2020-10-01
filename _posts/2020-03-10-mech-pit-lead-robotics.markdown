@@ -12,7 +12,7 @@ tags: [ENGINEERING]
 FRC Team #2363 -  Triple Helix
 
 ## MECHANICAL LEAD 
-As my FRC team's mechanical lead, I am responsible for designing and building the robot’s mechanical & pneumatics systems, training mechanical sub-team members.
+As my FRC team's mechanical lead, I am responsible for designing & building the robot’s mechanical systems and training mechanical sub-team members.
 
 ## PIT CREW CAPTAIN
 As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions.
