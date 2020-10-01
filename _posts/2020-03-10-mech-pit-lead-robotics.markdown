@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FRC Robotics Mechanical Lead & Pit Crew Lead"
+title: "FRC Robotics Mechanical Lead & Pit Crew Captain"
 date: 2020-03-10
 description: As my FRC team's mechanical lead & pit crew lead, I am responsible for designing and building the robot’s mechanical & pneumatics systems, training mechanical sub-team members, and debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions. # Add post description (optional)
 img: lead2.jpg # Add image post (optional)
@@ -14,8 +14,8 @@ FRC Team #2363 -  Triple Helix
 ## MECHANICAL LEAD 
 As my FRC team's mechanical lead, I am responsible for designing and building the robot’s mechanical & pneumatics systems, training mechanical sub-team members.
 
-## PIT CREW LEAD
-As my FRC team's pit crew lead, I am responsible for debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions.
+## PIT CREW CAPTAIN
+As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions.
 
 ## 2021 ROBOT
 TBD Pandemic 2020  -- Doing FPV Drone Build & Competition instead.
