@@ -11,14 +11,14 @@ tags: [ENGINEERING]
 
 FRC Team #2363 -  Triple Helix
 
-## MECHANICAL LEAD 
-As my FRC team's mechanical lead, I am responsible for designing & building the robot’s mechanical systems and training mechanical sub-team members.
+## MECHANICAL FABRICATION LEAD 
+As my FRC team's mechanical fabrication lead, I am responsible for designing & building the robot’s mechanical systems, as well as training mechanical sub-team members.
 
 ## PIT CREW CAPTAIN
-As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions.
+As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as captain of the pit crew during competitions.
 
 ## 2021 ROBOT
-TBD Pandemic 2020  -- Doing FPV Drone Build & Competition instead.
+TBD Pandemic 2020  -- Doing a [FPV Drone Build & Competition](https://natgrrl.github.io/drone/) instead.
 
 ## 2020 ROBOT
 Coronavirus pandemic cut our competition season short, so we were only able to compete at one event.
