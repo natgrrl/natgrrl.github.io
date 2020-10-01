@@ -29,8 +29,8 @@ POSITIONS:
 * Pit Crew Captain
 
 COMPETIONS & AWARDS:
-* FIRST Chesapeake Haymarket, VA Event:  2nd place finalist
-* Won the Engineering Inspiration Award.
+* FIRST Chesapeake Haymarket, VA Event: 2nd place finalist
+* FIRST Chesapeake Haymarket, VA Event: Engineering Inspiration Award.
 
 ROBOT | ROBOT CLIMB | ROBOT SHOOTING
 ----- | ----------- | -------------- 
@@ -43,12 +43,12 @@ POSITIONS:
 * Pit Crew Captain
 
 COMPETIONS & AWARDS:
-* 2019 CHS District Haymarket VA Event Winner
-* District Engineering Inspiration Award     
-* CHS District Portsmouth VA Event Creativity Award   
-* Advanced to District Championship  
-* 2019 FIRST Chesapeake District Championship Creativity Award  
-* Rank 18 -  Missed World Championship in Detroit by 2 spots.
+* CHS District Haymarket VA Event: Winner
+* CHS District Haymarket VA Event: Engineering Inspiration Award     
+* CHS District Portsmouth VA Event: Creativity Award   
+* CHS District Portsmouth VA Event: Advanced to District Championship  
+* FIRST Chesapeake District Championship:  Creativity Award  
+* FIRST Chesapeake District Championship:  Rank 18 Missing World Championship in Detroit by just 2 spots.
 
 ROBOT | ROBOT WITH BALL | ROBOT WITH HATCH | ROBOT CLIMB
 ----- | --------------- | ---------------- | -----------
@@ -60,10 +60,10 @@ POSITIONS:
 * Pit Crew Mechanical Lead
 
 COMPETIONS & AWARDS:
-* CHS District Northern Virginia Event Innovation in Control Award  
-* CHS District Hampton Roads Event  Chairman's Award  
-* FIRST Chesapeake District Championship  Rank 19  
-* Advanced to Worlds for 5th time. Team decided not to attend this year.
+* CHS District Northern Virginia Event: Innovation in Control Award  
+* CHS District Hampton Roads Event:  Chairman's Award  
+* FIRST Chesapeake District Championship: Rank 19  
+* FIRST Chesapeake District Championship: Advanced to Worlds for 5th time
 
 ELEVATOR LOW | ELEVATOR HIGH | ADDED RAMPS
 ------------ | ------------- | ----------- 
