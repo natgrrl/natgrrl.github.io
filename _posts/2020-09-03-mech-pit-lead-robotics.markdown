@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FRC Robotics Mechanical Lead & Pit Crew Captain"
-date: 2020-03-10
+date: 2020-09-03
 description: As my FRC team's mechanical lead & pit crew lead, I am responsible for designing and building the robot’s mechanical & pneumatics systems, training mechanical sub-team members, and debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions. # Add post description (optional)
 img: lead2.jpg # Add image post (optional)
 tags: [ENGINEERING]
@@ -21,9 +21,14 @@ As my FRC team's pit crew captain, I am responsible for debugging mechanical and
 TBD Pandemic 2020  -- Currently doing a [FPV Drone Build & Competition](https://natgrrl.github.io/drone/) instead.
 
 ## 2020 ROBOT
+
 Coronavirus pandemic cut our competition season short, so we were only able to compete at one event.
 
-AWARDS: 
+POSITIONS:
+* Mechanical Lead
+* Pit Crew Captain
+
+COMPETIONS & AWARDS:
 * FIRST Chesapeake Haymarket, VA Event:  2nd place finalist
 * Won the Engineering Inspiration Award.
 
@@ -33,8 +38,11 @@ ROBOT | ROBOT CLIMB | ROBOT SHOOTING
 
 
 ## 2019 ROBOT
+POSITIONS:
+* Mechanical Lead
+* Pit Crew Captain
 
-AWARDS:
+COMPETIONS & AWARDS:
 * 2019 CHS District Haymarket VA Event Winner
 * District Engineering Inspiration Award     
 * CHS District Portsmouth VA Event Creativity Award   
@@ -47,8 +55,11 @@ ROBOT | ROBOT WITH BALL | ROBOT WITH HATCH | ROBOT CLIMB
 ![robot2](http://natgrrl.github.io/assets/img/robot2.jpg) | ![robot2a](http://natgrrl.github.io/assets/img/robot2a.jpg) | ![robot2b](http://natgrrl.github.io/assets/img/robot2b.jpg) | ![robot2c](http://natgrrl.github.io/assets/img/robot2c.jpg)
 
 ## 2018 ROBOT
+POSITIONS:
+* Mechanical Lead Backup
+* Pit Crew Mechanical Lead
 
-AWARDS:
+COMPETIONS & AWARDS:
 * CHS District Northern Virginia Event Innovation in Control Award  
 * CHS District Hampton Roads Event  Chairman's Award  
 * FIRST Chesapeake District Championship  Rank 19  
@@ -60,14 +71,19 @@ ELEVATOR LOW | ELEVATOR HIGH | ADDED RAMPS
 
 ## 2017 ROBOT
 
-AWARDS:
+POSITIONS: 
+* Airship Pilot 
+* Mechanical Team Member
+* Off-season Competition Human Player (2016)
 
-* Pilot (awesome at a difficult job)   
-* CHS District - Northern Virginia Event Finalist
-* Gracious Professionalism Award  
-* CHS District - Hampton Roads Event Winner  and Chairman's Award  
-* FIRST Chesapeake District Championship Finalist (Rank 9) and Gracious Professionalism Award  
-* Advanced to Worlds in Archimedes Division.
+COMPETIONS & AWARDS:
+* CHS District Northern Virginia Event: Finalist
+* CHS District Northern Virginia Event: Gracious Professionalism Award  
+* CHS District Hampton Roads Event: Winner
+* CHS District Hampton Roads Event: Chairman's Award  
+* FIRST Chesapeake District Championship: Finalist (Rank 9) 
+* FIRST Chesapeake District Championship: Gracious Professionalism Award  
+* Competed at Worlds, in St. Louis, MO:  Archimedes Division
 
 ROBOT | ROBOT CLIMB   | ROBOT & TEAM
 ----- | ------------- | ------------ 
