@@ -18,7 +18,7 @@ As my FRC team's mechanical fabrication lead, I am responsible for designing & b
 As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as captain of the pit crew during competitions.
 
 ## 2021 ROBOT
-TBD Pandemic 2020  -- Doing a [FPV Drone Build & Competition](https://natgrrl.github.io/drone/) instead.
+TBD Pandemic 2020  -- Currently doing a [FPV Drone Build & Competition](https://natgrrl.github.io/drone/) instead.
 
 ## 2020 ROBOT
 Coronavirus pandemic cut our competition season short, so we were only able to compete at one event.
