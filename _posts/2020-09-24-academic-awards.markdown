@@ -16,7 +16,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 * [Virginia Space Coast Science Scholar](https://vsgc.odu.edu/spacecoast/) (VSCS)  [*more...*](https://natgrrl.github.io/vscs/)
 * AP Courses Completed: 7 with all A's, including AP Calculus BC (9th grade) and AP Statistics (10th grade).
 * Currently taking 3 AP courses and 4 dual enrollment college courses. 
-* ??Earned the Virginia DOE Seal of Biliteracy in Spanish??
+* Earned the Virginia DOE Seal of Biliteracy in Spanish 
 
 
 ## LEADERSHIP
