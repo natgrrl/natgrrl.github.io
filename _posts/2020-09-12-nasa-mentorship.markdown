@@ -22,6 +22,7 @@ engineers to design a framework for different planes and test how they would fun
 
 ![Nasa-1](http://natgrrl.github.io/assets/img/Nasa-1.jpg)
 
+
 ## 9/28/20 - Introductory Work (continued)
 
 This meeting was also used to decide what exactly the research project
@@ -41,6 +42,7 @@ model an engine using the stack feature above. This is a pretty simple task,
 however, it is difficult to figure out how to use all of the different features of
 the software.
 
+
 ## 10/5/20 - Basic Engine Design
 
 The next week was spent designing the framework for the engine and
@@ -54,6 +56,7 @@ depicts the turbofan engine that was drafted in OpenVSP.
 
 ![Nasa-3](http://natgrrl.github.io/assets/img/Nasa-3.jpg)
 
+
 ## 10/12/20 - Parts of an Engine/Labeling
 
 ![Nasa-4](http://natgrrl.github.io/assets/img/Nasa-4.jpg)
@@ -62,6 +65,7 @@ During this week, the different parts of an engine were further explored.
 This was necessary because in order to design a custom component it
 must be known what parts are important to an engine. These terms will be
 used in the future through advanced links and eventually as variables.
+
 
 ## 10/19/20 - Designing with Advanced Linking
 
@@ -81,6 +85,7 @@ the input (green) was made larger or smaller, the output (red) was changed
 also so that the part could be made into a thinner, wider cylinder, or a
 thicker, taller cylinder.
 
+
 ## 10/26/20 - Practice Programming of a VSP Part
 
 ![Nasa-7](http://natgrrl.github.io/assets/img/Nasa-7.jpg)
@@ -99,6 +104,7 @@ and height can be manipulated to either be stretched out vertically or
 horizontally, while the length can be changed to match the users
 preference. This is a useful activity to help gain experience with how code
 works and how variables are able to be changed in relation to one another.
+
 
 ## 11/2/20 - Front of Engine Draft
 
@@ -123,6 +129,7 @@ calculated. A picture of the adjusted fan area is shown on the next page.
 
 ![Nasa-11](http://natgrrl.github.io/assets/img/Nasa-11.jpg)
 
+
 ## 11/9/20 - Initial Design of Entire Engine
 
 ![Nasa-12](http://natgrrl.github.io/assets/img/Nasa-12.jpg)
@@ -140,6 +147,7 @@ that things can be changed a lot easier.
 
 ![Nasa-13](http://natgrrl.github.io/assets/img/Nasa-13.jpg)
 
+
 ## 11/16/20 - Inlet Design with Variables
 
 ![Nasa-14](http://natgrrl.github.io/assets/img/Nasa-14.jpg)
@@ -151,6 +159,7 @@ inner part of the component), and one for the nacelle (the shell that
 surrounds the jet and fan portion).
 There is no picture of the engine inlet being manipulated right now, but it
 will probably be added later
+
 
 ## 11/23/20 - Nacelle Design with Variables
 
