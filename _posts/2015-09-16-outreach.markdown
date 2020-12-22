@@ -15,26 +15,26 @@ BUILDING | LUNCH | SUPPORT
 
 ## RUMBLE IN THE ROADS
 
-BUILDING | LUNCH      
--------- | ----- 
+RUMBLE SETUP  | FIELD RESET      
+------------- | ----------- 
 ![rumble-1](http://natgrrl.github.io/assets/img/rumble-1.jpg) | ![rumble-2](http://natgrrl.github.io/assets/img/rumble-2.jpg) 
 
 ## CNU STEM DAY 
 
-BUILDING | LUNCH | SUPPORT      
--------- | ----- | -------
+SEL_BALANCING ROBOT | DEMO TABLE | DEMO FIELD      
+------------------- | ---------- | ----------
 ![cnu-stem-day-1](http://natgrrl.github.io/assets/img/cnu-stem-day-1.jpg) | ![cnu-stem-day-2](http://natgrrl.github.io/assets/img/cnu-stem-day-2.jpg) | ![cnu-stem-day-3](http://natgrrl.github.io/assets/img/cnu-stem-day-3.jpg)
 
 ## NNPS SAGE EXPO
 
-BUILDING | LUNCH      
--------- | ----- 
+DRIVING AROUND THE MALL | DRIVING AROUND THE MALL       
+----------------------- | ----------------------- 
 ![sage-expo-1](http://natgrrl.github.io/assets/img/sage-expo-1.jpg) | ![sage-expo-2](http://natgrrl.github.io/assets/img/sage-expo-2.jpg) 
 
 ## NAS OCEANA AIR SHOW DEMO
 
-BUILDING | LUNCH | SUPPORT      
--------- | ----- | -------
+LANGLEY AFB | LANGLEY AFB | NAS OCEANA      
+----------- | ----------- | ----------
 ![airshow-1](http://natgrrl.github.io/assets/img/airshow-1.jpg) | ![airshow-2](http://natgrrl.github.io/assets/img/airshow-2.jpg) | ![airshow-3](http://natgrrl.github.io/assets/img/airshow-3.jpg)
 
 ## HAMPTION ROADS MINI MAKER FAIRE DEMO
