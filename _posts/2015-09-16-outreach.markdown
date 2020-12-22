@@ -23,35 +23,35 @@ BUILDING | LUNCH
 
 BUILDING | LUNCH | SUPPORT      
 -------- | ----- | -------
-![cnu-stem-day-1](http://natgrrl.github.io/assets/img/cnu-stem-day-1.JPG) | ![cnu-stem-day-2](http://natgrrl.github.io/assets/img/cnu-stem-day-2.JPG) | ![cnu-stem-day-3](http://natgrrl.github.io/assets/img/cnu-stem-day-3.JPG)
+![cnu-stem-day-1](http://natgrrl.github.io/assets/img/cnu-stem-day-1.jpg) | ![cnu-stem-day-2](http://natgrrl.github.io/assets/img/cnu-stem-day-2.jpg) | ![cnu-stem-day-3](http://natgrrl.github.io/assets/img/cnu-stem-day-3.jpg)
 
 ## NNPS SAGE EXPO
 
 BUILDING | LUNCH      
 -------- | ----- 
-![sage-expo-1](http://natgrrl.github.io/assets/img/sage-expo-1.JPG) | ![sage-expo-2](http://natgrrl.github.io/assets/img/sage-expo-3.JPG) 
+![sage-expo-1](http://natgrrl.github.io/assets/img/sage-expo-1.jpg) | ![sage-expo-2](http://natgrrl.github.io/assets/img/sage-expo-3.jpg) 
 
 ## NAS OCEANA AIR SHOW DEMO
 
 BUILDING | LUNCH | SUPPORT      
 -------- | ----- | -------
-![airshow-1](http://natgrrl.github.io/assets/img/airshow-1.JPG) | ![airshow-2](http://natgrrl.github.io/assets/img/airshow-2.JPG) | ![airshow-3](http://natgrrl.github.io/assets/img/airshow-3.JPG)
+![airshow-1](http://natgrrl.github.io/assets/img/airshow-1.jpg) | ![airshow-2](http://natgrrl.github.io/assets/img/airshow-2.jpg) | ![airshow-3](http://natgrrl.github.io/assets/img/airshow-3.jpg)
 
 ## HAMPTION ROADS MINI MAKER FAIRE DEMO
 
 RACHEL   | DEMO FIELD      
 -------- | ---------- 
-![maker-fair-1](http://natgrrl.github.io/assets/img/maker-fair-1.JPG) | ![maker-fair-2](http://natgrrl.github.io/assets/img/maker-fair-2.JPG) 
+![maker-fair-1](http://natgrrl.github.io/assets/img/maker-fair-1.jpg) | ![maker-fair-2](http://natgrrl.github.io/assets/img/maker-fair-2.jpg) 
 
 ## CHROME CLUB DEMO
 
 GROUP    | DEMO  | DEMO     
 -------- | ----- | -------
-![chrome-club-4](http://natgrrl.github.io/assets/img/chrome-club-4.JPG) | ![chrome-club-2](http://natgrrl.github.io/assets/img/chrome-club-2.JPG) | ![chrome-club-1](http://natgrrl.github.io/assets/img/chrome-club-1.JPG)
+![chrome-club-4](http://natgrrl.github.io/assets/img/chrome-club-4.jpg) | ![chrome-club-2](http://natgrrl.github.io/assets/img/chrome-club-2.jpg) | ![chrome-club-1](http://natgrrl.github.io/assets/img/chrome-club-1.jpg)
 
 ## LEWIS GINTER GARDENS DEMO
 
-![lewis-ginter-1](http://natgrrl.github.io/assets/img/lewis-ginter-1.JPG)
+![lewis-ginter-1](http://natgrrl.github.io/assets/img/lewis-ginter-1.jpg)
 
 
 
