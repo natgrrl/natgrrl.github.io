@@ -29,7 +29,7 @@ BUILDING | LUNCH | SUPPORT
 
 BUILDING | LUNCH      
 -------- | ----- 
-![sage-expo-1](http://natgrrl.github.io/assets/img/sage-expo-1.jpg) | ![sage-expo-2](http://natgrrl.github.io/assets/img/sage-expo-3.jpg) 
+![sage-expo-1](http://natgrrl.github.io/assets/img/sage-expo-1.jpg) | ![sage-expo-2](http://natgrrl.github.io/assets/img/sage-expo-2.jpg) 
 
 ## NAS OCEANA AIR SHOW DEMO
 
