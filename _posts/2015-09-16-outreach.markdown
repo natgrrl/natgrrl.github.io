@@ -17,7 +17,7 @@ BUILDING | LUNCH | SUPPORT
 
 BUILDING | LUNCH      
 -------- | ----- 
-![rumble-1](http://natgrrl.github.io/assets/img/rumble-1.JPG) | ![rumble-2](http://natgrrl.github.io/assets/img/rumble-2.JPG) 
+![rumble-1](http://natgrrl.github.io/assets/img/rumble-1.jpg) | ![rumble-2](http://natgrrl.github.io/assets/img/rumble-2.jpg) 
 
 ## CNU STEM DAY 
 
