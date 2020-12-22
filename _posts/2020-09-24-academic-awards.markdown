@@ -12,8 +12,8 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 * Senior at Menchville High School:  Rank 1 out of 330 with a 4.64 GPA. 
 * [Governor’s School for Science and Technology](https://nhrec.org/gsst/) (GSST) Engineering Strand Senior
 * [NASA Mentorship](https://natgrrl.github.io/nasa-mentorship/)
-* [Virginia Aerospace Science and Technology Scholar](https://vsgc.odu.edu/vasts/) (VASTS)  [*more...*](https://natgrrl.github.io/vasts/)
-* [Virginia Space Coast Science Scholar](https://vsgc.odu.edu/spacecoast/) (VSCS)  [*more...*](https://natgrrl.github.io/vscs/)
+* [Virginia Aerospace Science and Technology Scholar](https://natgrrl.github.io/vasts/)(VASTS)
+* [Virginia Space Coast Science Scholar](https://natgrrl.github.io/vscs/) (VSCS)
 * AP Courses Completed: 7 with all A's, including AP Calculus BC (9th grade) and AP Statistics (10th grade).
 * Currently taking 3 AP courses and 4 dual enrollment college courses. 
 * Earned the Virginia DOE Seal of Biliteracy in Spanish 
@@ -21,11 +21,10 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 
 ## LEADERSHIP
 
-* Mechanical Fabrication Lead for [Triple Helix Robotics](http://team2363.org/) (FRC Team #2363)      [*more...*](https://natgrrl.github.io/mech-pit-lead-robotics/)
-* Pit Crew Captain for [Triple Helix Robotics](http://team2363.org/) (FRC Team #2363)       [*more...*](https://natgrrl.github.io/mech-pit-lead-robotics/)
+* [Mechanical Fabrication Lead](https://natgrrl.github.io/mech-pit-lead-robotics/) for Triple Helix Robotics
+* [Pit Crew Captain](https://natgrrl.github.io/mech-pit-lead-robotics/) for Triple Helix Robotics
 * Vice President of the National Honor Society at Menchville High School
-* [Triple Helix Robotics](http://team2363.org/) team POC / Coordinator for an ongoing collaboration with the NNPS school district’s Assistive Technology Coordinator.      [*more...*](https://natgrrl.github.io/at/)
-
+* [Assistive Technology Coordinator](https://natgrrl.github.io/at/) for Triple Helix Robotics
 
 ## AWARDS
 
