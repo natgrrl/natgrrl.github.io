@@ -2,7 +2,7 @@
 layout: post
 title: "NASA Mentorship"
 date: 2020-09-12
-description: As a senior student in the engineering strand at the Governor's School for Science and Technology (GSST),  I am required to do a mentorship. My mentorship is with a NASA Aerospace Engineer where I use Open VSP to explore designs for aircraft.  # Add post description (optional)
+description: As a senior student in the engineering strand at the Governor's School for Science and Technology (GSST),  I am required to do a mentorship. My mentorship is with a NASA Aerospace Engineer where I am designing and coding a customizable enginer component to OpenVSP, NASA's open-source aircraft design platform.  The plan is to be able to export engine models, designed with this component, to engineering analysis programs to study things like the CFD, or computational fluid dynamics, of the aircraft  # Add post description (optional)
 img: Nasa-4.jpg # Add image post (optional)
 tags: [NASA, ENGINEERING, CAD]
 ---
