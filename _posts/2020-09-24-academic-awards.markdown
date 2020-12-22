@@ -9,7 +9,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 
 ## ACADEMICS
 
-* Senior at Menchville High School:  Rank 1 out of 330 with a 4.64 GPA. 
+* Senior at Menchville High School:  Rank 1 out of 335 with a 4.64 GPA. 
 * [Governor’s School for Science and Technology](https://nhrec.org/gsst/) (GSST) Engineering Strand Senior
 * [NASA Mentorship](https://natgrrl.github.io/nasa-mentorship/)
 * [Virginia Aerospace Science and Technology Scholar](https://natgrrl.github.io/vasts/)(VASTS)
