@@ -2,7 +2,7 @@
 layout: post
 title: "Volunteering at BTW Marine Science Lab"
 date: 2015-06-14
-description: Volunteering at BTW Marine Science Lab # Add post description (optional)
+description: Throughout middle school and through ninth grade, I  volunteered each summer to maintain and feed the aquatic life in the marine science tanks and lab at Booker T Washington  Middle School, a Marine Science Magnet School. (optional)
 img: btw2.jpg # Add image post (optional)
 tags: [VOLUNTEERING]
 ---
