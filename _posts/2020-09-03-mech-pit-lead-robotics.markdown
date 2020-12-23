@@ -9,17 +9,17 @@ tags: [ENGINEERING]
 
 ## OUR TEAM
 
-My [FIRST Robotics Competition team](https://www.firstinspires.org/robotics/frc) is team #2363 - [Triple Helix](http://team2363.org/).    
+My [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team is team #2363 - [Triple Helix](http://team2363.org/).    
 
 ## MECHANICAL FABRICATION LEAD 
 
-As the mechanical fabrication lead of Menchville High School’s FIRST Robotics Competition team, Triple Helix, I am responsible for the mechanical design and building of our robots, training mechanical sub-team members on using machine shop tools.  Our mechanical subteam uses machine shop tools - mill, lathe, drill press, mitre saw, band saw, hand drills, etc - to construct industrial-sized robots to play a difficult field game in an alliance with other teams. 
+As the mechanical fabrication lead of Menchville High School’s [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team, [Triple Helix](http://team2363.org/), I am responsible for the mechanical design and building of our robots, training mechanical sub-team members on using machine shop tools.  Our mechanical subteam uses machine shop tools - mill, lathe, drill press, mitre saw, band saw, hand drills, etc - to construct industrial-sized robots to play a difficult field game in an alliance with other teams. 
 
 ## PIT CREW CAPTAIN
 As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as captain of the pit crew during competitions.
 
 ## 2021 ROBOT
-TBD On hold due the coronavirus pandemic...
+TBD On hold due to the coronavirus pandemic...
 
 ## 2020 ROBOT
 
