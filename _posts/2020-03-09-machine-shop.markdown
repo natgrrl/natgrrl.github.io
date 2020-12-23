@@ -2,13 +2,13 @@
 layout: post
 title: "Machine Shop Experience"
 date: 2020-03-09
-description: Experienced with using machine shop tools, including mill, lathe, drill press, mitre saw, band saw, hand drills, soldering, belt sanders, dremels, angle grinders, etc.   # Add post description (optional)
+description: I have 4 years of experienced with using machine shop tools, including mill, lathe, drill press, mitre saw, band saw, hand drills, soldering, belt sanders, dremels, angle grinders, etc.  As the mechanical fabrication lead on my team, I am also responsible for training mechanical sub-team members on using these tools safely.   # Add post description (optional)
 img: shop-hex-shaft.jpg # Add image post (optional)
 tags: [ENGINEERING]
 ---
 
 ## OVERVIEW
-Experienced with using machine shop tools, including mill, lathe, drill press, mitre saw, band saw, hand drills, soldering, belt sanders, dremels, angle grinders, etc.
+I have 4 years of experienced with using machine shop tools, including mill, lathe, drill press, mitre saw, band saw, hand drills, soldering, belt sanders, dremels, angle grinders, etc.  As the mechanical fabrication lead on my team, I am also responsible for training mechanical sub-team members on using these tools safely.
 
 ## GEAR BOX HEX SHAFTS I MADE ON THE LATHE & BANDSAW
 
