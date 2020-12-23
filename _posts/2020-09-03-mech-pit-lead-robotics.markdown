@@ -9,7 +9,7 @@ tags: [ENGINEERING]
 
 ## MECHANICAL FABRICATION LEAD 
 
-As the mechanical fabrication lead of Menchville High School’s [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team, [Triple Helix](http://team2363.org/), I am responsible for the mechanical design and building of our robots, training mechanical sub-team members on using machine shop tools.  Our mechanical subteam uses machine shop tools - mill, lathe, drill press, mitre saw, band saw, hand drills, etc - to construct industrial-sized robots to play a difficult field game in an alliance with other teams. 
+I have been involved in FIRST robotics programs for eight years.  Now, as the mechanical fabrication lead of Menchville High School’s [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team, [Triple Helix](http://team2363.org/), I am responsible for the mechanical design and building of our robots, training mechanical sub-team members on using machine shop tools.  Our mechanical subteam uses machine shop tools - mill, lathe, drill press, mitre saw, band saw, hand drills, etc - to construct industrial-sized robots to play a difficult field game in an alliance with other teams. 
 
 ## PIT CREW CAPTAIN
 As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as captain of the pit crew during competitions.
