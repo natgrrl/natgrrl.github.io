@@ -10,8 +10,8 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 ## ACADEMICS
 
 * Senior at Menchville High School:  Rank 1 out of 335 with a 4.64 GPA. 
-* [Governor’s School for Science and Technology](https://nhrec.org/gsst/) (GSST) Engineering Strand Senior
-* [NASA Mentorship](https://natgrrl.github.io/nasa-mentorship/)
+* Senior in the Engineering Strand at the [Governor’s School for Science and Technology](https://nhrec.org/gsst/) (GSST)
+* Currently working in a [NASA Mentorship](https://natgrrl.github.io/nasa-mentorship/)
 * [Virginia Aerospace Science and Technology Scholar](https://natgrrl.github.io/vasts/)(VASTS)
 * [Virginia Space Coast Science Scholar](https://natgrrl.github.io/vscs/) (VSCS)
 * AP Courses Completed: 7 with all A's, including AP Calculus BC (9th grade) and AP Statistics (10th grade).
