@@ -8,7 +8,8 @@ tags: [NASA, SCHOLAR]
 ---
 
 ## DETAILS
-Completed the Virginia Space Coast Scholars (VSCS) 4-month online learning experience for high school sophomores. Based on performance, I was selected to attend VSCS’s seven day, residential academy at NASA Wallops Flight Facility.  With a focus on scientific exploration, students are introduced to the science, engineering, and technology concepts that are integral to earth and space-based missions launched or conducted from Virginia’s Space Coast on the Eastern Shore.
+
+I completed the Virginia Space Coast Scholars (VSCS) 4-month online learning experience for high school sophomores. Based on performance, I was invited to attend VSCS’s seven day, residential academy at NASA Wallops Flight Facility.  With a focus on scientific exploration, students are introduced to the science, engineering, and technology concepts that are integral to earth and space-based missions launched or conducted from Virginia’s Space Coast on the Eastern Shore.  Specifically, I was the instrument specialist for my 8 person team focused on airborne science. We developed a mission focused on studying the effects that prescribed burns had on the environment. As instrument specialist, I had to decide what kind of plane, equipment, and instruments were necessary for the mission.
 
 ![vscs2](http://natgrrl.github.io/assets/img/vscs2.jpg)
 
