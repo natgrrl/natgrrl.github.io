@@ -7,10 +7,6 @@ img: lead2.jpg # Add image post (optional)
 tags: [ENGINEERING]
 ---
 
-## OUR TEAM
-
-My [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team is team #2363 - [Triple Helix](http://team2363.org/).    
-
 ## MECHANICAL FABRICATION LEAD 
 
 As the mechanical fabrication lead of Menchville High School’s [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) team, [Triple Helix](http://team2363.org/), I am responsible for the mechanical design and building of our robots, training mechanical sub-team members on using machine shop tools.  Our mechanical subteam uses machine shop tools - mill, lathe, drill press, mitre saw, band saw, hand drills, etc - to construct industrial-sized robots to play a difficult field game in an alliance with other teams. 
