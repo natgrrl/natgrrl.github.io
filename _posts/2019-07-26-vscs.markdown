@@ -2,7 +2,7 @@
 layout: post
 title: "Virginia Space Coast Science Scholar"
 date: 2019-07-26
-description: Completed the Virginia Space Coast Scholars (VSCS) 4-month online learning experience for high school sophomores. Based on performance, I was selected to attend VSCS’s seven day, residential academy at NASA Wallops Flight Facility.  With a focus on scientific exploration, students are introduced to the science, engineering, and technology concepts that are integral to earth and space-based missions launched or conducted from Virginia’s Space Coast on the Eastern Shore.  # Add post description (optional)
+description: I completed the Virginia Space Coast Scholars (VSCS) 4-month online learning experience for high school sophomores. Based on performance, I was invited to attend VSCS’s seven day, residential academy at NASA Wallops Flight Facility.  With a focus on scientific exploration, students are introduced to the science, engineering, and technology concepts that are integral to earth and space-based missions launched or conducted from Virginia’s Space Coast on the Eastern Shore.   # Add post description (optional)
 img: vscs9.jpg # Add image post (optional)
 tags: [NASA, SCHOLAR]
 ---
