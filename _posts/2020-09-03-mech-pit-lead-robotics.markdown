@@ -9,7 +9,7 @@ tags: [ENGINEERING]
 
 ## OUR TEAM
 
-FRC Team #2363 -  Triple Helix
+My [FIRST Robotics Competition team](https://www.firstinspires.org/robotics/frc) is team #2363 - [Triple Helix](http://team2363.org/).    
 
 ## MECHANICAL FABRICATION LEAD 
 As my FRC team's mechanical fabrication lead, I am responsible for designing & building the robot’s mechanical systems, as well as training mechanical sub-team members.
@@ -18,7 +18,7 @@ As my FRC team's mechanical fabrication lead, I am responsible for designing & b
 As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as captain of the pit crew during competitions.
 
 ## 2021 ROBOT
-TBD Pandemic 2020  -- Currently doing a [FPV Drone Build & Competition](https://natgrrl.github.io/drone/) instead.
+TBD On hold due the coronavirus pandemic...
 
 ## 2020 ROBOT
 
