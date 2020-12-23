@@ -19,7 +19,7 @@ TBD On hold due to the coronavirus pandemic...
 
 ## 2020 ROBOT
 
-Coronavirus pandemic cut our competition season short, so we were only able to compete at one event.
+Coronavirus pandemic cut our competition season short, so we were only able to compete at one event, but we were definitely off to a winning season as we were 2nd place finalist and won the Engineering Inspiration Award.  The Engineering Inspiration Award celebrates a team's outstanding success in advancing respect and appreciation for engineering within a team’s school or organization and community.
 
 POSITIONS:
 * Mechanical Lead
