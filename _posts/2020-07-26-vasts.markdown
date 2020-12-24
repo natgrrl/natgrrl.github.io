@@ -2,7 +2,7 @@
 layout: post
 title: "Virginia Aerospace Science & Technology Scholar"
 date: 2020-07-26
-description: I participated in the VASTS 5-month online program for Juniors & Seniors.  Based on performance, I was selected to attend a seven-day residential summer academy at NASA Langley Research Center in Hampton, Va., where students are immersed in NASA-related research through interaction with scientists, engineers and technologists.  # Add post description (optional)
+description: I completed the VASTS 5-month online program for Juniors & Seniors.  Based on performance, I was selected to attend a seven-day residential summer academy at NASA Langley Research Center in Hampton, Va., where students are immersed in NASA-related research through interaction with scientists, engineers and technologists.  # Add post description (optional)
 img: vasts1.jpg # Add image post (optional)
 tags: [NASA, SCHOLAR]
 ---
