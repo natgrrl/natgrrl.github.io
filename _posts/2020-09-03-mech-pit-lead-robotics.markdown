@@ -2,7 +2,7 @@
 layout: post
 title: "FRC Robotics Mechanical Lead & Pit Crew Captain"
 date: 2020-09-03
-description: As my FRC team's mechanical lead & pit crew lead, I am responsible for designing and building the robot’s mechanical & pneumatics systems, training mechanical sub-team members, and debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions. # Add post description (optional)
+description: I have been involved in FIRST robotics programs for eight years.  Now, as my FRC team's mechanical lead & pit crew lead, I am responsible for designing and building the robot’s mechanical & pneumatics systems, training mechanical sub-team members, and debugging mechanical and non-mechanical problems under pressure as lead of the pit crew during competitions. # Add post description (optional)
 img: lead2.jpg # Add image post (optional)
 tags: [ENGINEERING]
 ---
