@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Natalie Bretton # add your name
 author-img: natalie-pic.jpg # add your photo
-about-author: Maker, designer, and the mechanical fabrication lead and pit crew lead for FRC robotics team 2363 Triple Helix. # add description
+about-author:  # add description
 twitter: # add your Twitter handle
 facebook: natalie.bretton # add your Facebook handle
 github: natgrrl # add your Github handle
