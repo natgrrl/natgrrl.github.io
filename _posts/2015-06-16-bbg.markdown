@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volunteering at Bluebird Gap Farm"
-date: 2015-06-15
+date: 2015-06-16
 description: For the past five years, I have volunteered at Bluebird Gap Farm in Hampton, Virginia almost every Sunday. I feed, care for, and help manage the animals, along with participating in service projects that the farm supports. 
 img: bbg15.jpg # Add image post (optional)
 tags: [VOLUNTEERING]
