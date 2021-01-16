@@ -3,11 +3,16 @@ layout: post
 title: "My Crochet Projects"
 date: 2015-06-13
 description: My Crochet Projects # Add post description (optional)
-img: crochet1.jpg # Add image post (optional)
+img: crochet5.jpg # Add image post (optional)
 tags: [HOBBIES, CROCHET]
 ---
 
 ## CROCHET PROJECTS
+
+## BACK PACK
+BACK PACK 1   | BACX PACK 2      
+------------- | ----------- 
+![crochet4](http://natgrrl.github.io/assets/img/crochet4.jpg) | ![crochet5](http://natgrrl.github.io/assets/img/crochet5.jpg) 
 
 ## BEACH BAG
 ![crochet1](http://natgrrl.github.io/assets/img/crochet1.jpg)
