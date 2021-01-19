@@ -7,8 +7,6 @@ img: crochet5.jpg # Add image post (optional)
 tags: [HOBBIES, CROCHET]
 ---
 
-## CROCHET PROJECTS
-
 ## ANOTHER PRODUCE BAG
 ![crochet6](http://natgrrl.github.io/assets/img/crochet6.jpg)
 
