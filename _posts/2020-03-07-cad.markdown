@@ -18,8 +18,8 @@ I have created a number of designs using Computer Aided Design(CAD).
 
 I needed a desk in my room, so I searched the internet for various pictures of desks that I liked.  This one also had instructions to help with the build.  Then, I create the desk in CAD, using OnShape.  During the build I did swap the side that the shelves were on, so that my chair would not have my bed behind it limiting my movement. Below are pictures of the CAD drawing, the finished desk, and some pictures during the build.
 
-CAD | FINAL PRODUCT
---- | -------------
+CAD | MY DESK
+--- | -------
 ![cad-desk](http://natgrrl.github.io/assets/img/cad-desk.png) |  ![cad-desk2](http://natgrrl.github.io/assets/img/cad-desk2.jpg)
 
 
