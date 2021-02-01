@@ -43,6 +43,9 @@ JOYSTICK CAD | JOTSTICK IN AT CAR
 
 ![cad-keychain](http://natgrrl.github.io/assets/img/cad-keychain.png)
 
+
+A VCU Occupational Therapy PHD student was spending robotics build season with our team to learn about designing &  fabricating Adaptive Technology devices to support her patients.  I helped design a mechanism in CAD for use on a wheelchair to hold a NERF Gun that has been modified for a patient to enjoy.
+
 ![cad-nerf](http://natgrrl.github.io/assets/img/cad-nerf.png)
 
 
