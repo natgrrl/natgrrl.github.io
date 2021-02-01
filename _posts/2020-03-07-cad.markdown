@@ -12,7 +12,7 @@ tags: [CAD, ENGINEERING]
 
 ## OVERVIEW
 
-I have created a number of designs using Computer Aided Design(CAD).
+I have created a number of designs using Computer Aided Design(CAD).  While I have tinkered with PTC Creo and done a tiny bit of Solidworks, most of my CAD designs has been created using OnShape, a free, web-based, easily accessible CAD software.
 
 ## MY DESK BUILD
 
@@ -49,9 +49,20 @@ CAD | STL FOR LASER CUTTING | BRIDGE
 --- | --------------------- | ------
 ![cad-bridge1](http://natgrrl.github.io/assets/img/cad-bridge1.png) | ![cad-bridge2](http://natgrrl.github.io/assets/img/cad-bridge2.png) | ![bridge](http://natgrrl.github.io/assets/img/Bridge1.jpg)
 
+
+## MY SENIOR DESIGN PROJECT:
+
 PROBE CAD | PROBE SPEC
 --------- | ----------
 ![cad-probe1](http://natgrrl.github.io/assets/img/cad-probe1.png) | ![cad-probe2](http://natgrrl.github.io/assets/img/cad-probe2.png)
+
+## MY ALLEN WRENCH HOLDER FOR MY TOOL BELT
+ 
+I found I needed something to organize my allen wrenches in my tool belt and I wanted to learn a little Solidworks, so I design this little device:
+
+3D PRINTED | WORKS ON A BELT | WORKS IN TOOL POUCH 
+---------- | --------------- | -------------------
+![allen-wrench1](http://natgrrl.github.io/assets/img/allen-wrench1.jpg) | ![allen-wrench2](http://natgrrl.github.io/assets/img/allen-wrench2.jpg) | ![allen-wrench3](http://natgrrl.github.io/assets/img/allen-wrench3.jpg)
 
 ![cad-bench](http://natgrrl.github.io/assets/img/cad-bench.png)
 
