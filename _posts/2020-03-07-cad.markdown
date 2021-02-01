@@ -27,6 +27,21 @@ BUILDING DESK LEGS | SANDING DESK TOP | PAINTING THE FRAME
 ------------------ | ---------------- | ------------------
 ![desk3](http://natgrrl.github.io/assets/img/desk3.jpg) | ![desk4](http://natgrrl.github.io/assets/img/desk4.jpg) | ![desk5](http://natgrrl.github.io/assets/img/desk5.jpg)
 
+## ASSISTIVE TECHNOLOGY DESIGNS
+
+A VCU Occupational Therapy PHD student was spending robotics build season with our team to learn about designing &  fabricating Adaptive Technology devices to support her patients.  As our teams Assistive Technology Coordinator (ATC), I helped design a number mechanisms in CAD to assist people with disabilities.
+
+We modified ride-on car for children with diabilities.  I designed the case for the joystick that we added to the car.
+
+JOYSTICK CAD | JOTSTICK IN AT CAR
+------------ | ------------------
+![cad-joystick](http://natgrrl.github.io/assets/img/cad-joystick.png) | ![car](http://natgrrl.github.io/assets/img/at1.jpg)
+
+I also designed a mechanisom to mount on a wheelchair to hold a NERF Gun that our team modified for a patient to enjoy.
+
+![cad-nerf](http://natgrrl.github.io/assets/img/cad-nerf.png)
+
+
 ## MY JUNIOR BRIDGE BUILD:
 For my Junior year in the Engineering strand at the Governor’s School for Science & Technology we had to design a bridge in CAD. I designed our bridge in CAD, specifically OnShape. It was then laser cut from foam board, and we glued it together. It held 108.4 lbs!! As far as anyone knows it was the all time record for weight. The 2nd place bridge, in this competition, held 40 something lbs.
 
@@ -42,15 +57,8 @@ PROBE CAD | PROBE SPEC
 
 ![cad-guitar](http://natgrrl.github.io/assets/img/cad-guitar.png)
 
-JOYSTICK CAD | JOTSTICK IN AT CAR
------------- | ------------------
-![cad-joystick](http://natgrrl.github.io/assets/img/cad-joystick.png) | ![car](http://natgrrl.github.io/assets/img/at1.jpg)
-
 ![cad-keychain](http://natgrrl.github.io/assets/img/cad-keychain.png)
 
 
-A VCU Occupational Therapy PHD student was spending robotics build season with our team to learn about designing &  fabricating Adaptive Technology devices to support her patients.  I helped design a mechanism in CAD for use on a wheelchair to hold a NERF Gun that has been modified for a patient to enjoy.
-
-![cad-nerf](http://natgrrl.github.io/assets/img/cad-nerf.png)
 
 
