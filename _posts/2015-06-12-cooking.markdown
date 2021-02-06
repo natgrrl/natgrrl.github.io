@@ -3,13 +3,15 @@ layout: post
 title: "Cooking"
 date: 2015-06-13
 description: I like to cook! # Add post description (optional)
-img: cooking2.jpg # Add image post (optional)
+img: food6.jpg # Add image post (optional)
 tags: [HOBBIES, COOKING]
 ---
 
 ## COOKING
 
-![cooking2](http://natgrrl.github.io/assets/img/cooking2.jpg)
+DOUGH | PREP | NOODLES
+----- | ---- | -------
+![food9](http://natgrrl.github.io/assets/img/food9.jpg) | ![food10](http://natgrrl.github.io/assets/img/food10.jpg) | ![food11](http://natgrrl.github.io/assets/img/food11.jpg) 
 
 ![cooking1](http://natgrrl.github.io/assets/img/cooking1.jpg)
 
