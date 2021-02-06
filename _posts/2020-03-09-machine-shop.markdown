@@ -22,8 +22,6 @@ DRILLING OUT THE CENTER OF HEX SHAFTS USING THE LATHE | FINISHED HEX SHAFTS
 
 ![shop4](http://natgrrl.github.io/assets/img/shop4.jpg)
 
-![shop5](http://natgrrl.github.io/assets/img/shop5.jpg)
-
 ![shop6](http://natgrrl.github.io/assets/img/shop6.jpg)
 
 ![shop7](http://natgrrl.github.io/assets/img/shop7.jpg)
