@@ -14,10 +14,10 @@ I have been involved in FIRST robotics programs for eight years.  Now, as the me
 ## PIT CREW CAPTAIN
 As my FRC team's pit crew captain, I am responsible for debugging mechanical and non-mechanical problems under pressure as captain of the pit crew during competitions.
 
-## 2021 ROBOT
+## 2021 ROBOT     (12th Grade)
 TBD On hold due to the coronavirus pandemic...
 
-## 2020 ROBOT
+## 2020 ROBOT     (11th Grade)
 
 The coronavirus pandemic cut our competition season short, so we were only able to compete at one event, but we were definitely off to a winning season as we were the 2nd place finalist and won the Engineering Inspiration Award.  The Engineering Inspiration Award celebrates a team's outstanding success in advancing respect and appreciation for engineering within a team’s school or organization and community.
 
@@ -34,7 +34,7 @@ ROBOT | ROBOT CLIMB | ROBOT SHOOTING
 ![robot1](http://natgrrl.github.io/assets/img/robot1.jpg) | ![robot4b](http://natgrrl.github.io/assets/img/robot4b.jpg) | ![robot4c](http://natgrrl.github.io/assets/img/robot4c.jpg)
 
 
-## 2019 ROBOT
+## 2019 ROBOT    (10th Grade)
 POSITIONS HELD:
 * Mechanical Lead
 * Pit Crew Captain
@@ -51,7 +51,7 @@ ROBOT | ROBOT WITH BALL | ROBOT WITH HATCH | ROBOT CLIMB
 ----- | --------------- | ---------------- | -----------
 ![robot2](http://natgrrl.github.io/assets/img/robot2.jpg) | ![robot2a](http://natgrrl.github.io/assets/img/robot2a.jpg) | ![robot2b](http://natgrrl.github.io/assets/img/robot2b.jpg) | ![robot2c](http://natgrrl.github.io/assets/img/robot2c.jpg)
 
-## 2018 ROBOT
+## 2018 ROBOT    (9th Grade)
 POSITIONS HELD:
 * Mechanical Lead Backup
 * Pit Crew Mechanical Lead
@@ -66,7 +66,7 @@ ELEVATOR LOW | ELEVATOR HIGH | ADDED RAMPS
 ------------ | ------------- | ----------- 
 ![robot3b](http://natgrrl.github.io/assets/img/robot3b.jpg) | ![robot3a](http://natgrrl.github.io/assets/img/robot3a.jpg) | ![robot3c](http://natgrrl.github.io/assets/img/robot3c.jpg)
 
-## 2017 ROBOT
+## 2017 ROBOT    (8th Grade)
 
 POSITIONS HELD: 
 * Airship Pilot 
