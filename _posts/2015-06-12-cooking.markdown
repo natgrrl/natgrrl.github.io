@@ -13,6 +13,28 @@ DOUGH | PREP | NOODLES
 ----- | ---- | -------
 ![food9](http://natgrrl.github.io/assets/img/food9.jpg) | ![food10](http://natgrrl.github.io/assets/img/food10.jpg) | ![food11](http://natgrrl.github.io/assets/img/food11.jpg) 
 
+![food1](http://natgrrl.github.io/assets/img/food1.jpg)
+
+![food2](http://natgrrl.github.io/assets/img/food2.jpg)
+
+![food3](http://natgrrl.github.io/assets/img/food3.jpg)
+
+![food4](http://natgrrl.github.io/assets/img/food4.jpg)
+
+![food5](http://natgrrl.github.io/assets/img/food5.jpg)
+
+![food6](http://natgrrl.github.io/assets/img/food6.jpg)
+
+![food7](http://natgrrl.github.io/assets/img/food7.jpg)
+
+![food8](http://natgrrl.github.io/assets/img/food8.jpg)
+
+![food12](http://natgrrl.github.io/assets/img/food12.jpg)
+
+![food13](http://natgrrl.github.io/assets/img/food13.jpg)
+
+![food14](http://natgrrl.github.io/assets/img/food14.jpg)
+
 ![cooking1](http://natgrrl.github.io/assets/img/cooking1.jpg)
 
 
