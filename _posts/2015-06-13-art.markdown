@@ -3,7 +3,7 @@ layout: post
 title: "My Art Work"
 date: 2015-06-13
 description: My Art Work # Add post description (optional)
-img: art1.jpg # Add image post (optional)
+img: art29.jpg # Add image post (optional)
 tags: [HOBBIES, ART]
 ---
 
