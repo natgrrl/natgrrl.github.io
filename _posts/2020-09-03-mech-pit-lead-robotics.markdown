@@ -21,7 +21,7 @@ TBD On hold due to the coronavirus pandemic...
 
 The coronavirus pandemic cut our competition season short, so we were only able to compete at one event, but we were definitely off to a winning season as we were the 2nd place finalist and won the Engineering Inspiration Award.  The Engineering Inspiration Award celebrates a team's outstanding success in advancing respect and appreciation for engineering within a team’s school or organization and community.
 
-POSITIONS:
+POSITIONS HELD:
 * Mechanical Lead
 * Pit Crew Captain
 
@@ -35,7 +35,7 @@ ROBOT | ROBOT CLIMB | ROBOT SHOOTING
 
 
 ## 2019 ROBOT
-POSITIONS:
+POSITIONS HELD:
 * Mechanical Lead
 * Pit Crew Captain
 
@@ -52,7 +52,7 @@ ROBOT | ROBOT WITH BALL | ROBOT WITH HATCH | ROBOT CLIMB
 ![robot2](http://natgrrl.github.io/assets/img/robot2.jpg) | ![robot2a](http://natgrrl.github.io/assets/img/robot2a.jpg) | ![robot2b](http://natgrrl.github.io/assets/img/robot2b.jpg) | ![robot2c](http://natgrrl.github.io/assets/img/robot2c.jpg)
 
 ## 2018 ROBOT
-POSITIONS:
+POSITIONS HELD:
 * Mechanical Lead Backup
 * Pit Crew Mechanical Lead
 
@@ -68,7 +68,7 @@ ELEVATOR LOW | ELEVATOR HIGH | ADDED RAMPS
 
 ## 2017 ROBOT
 
-POSITIONS: 
+POSITIONS HELD: 
 * Airship Pilot 
 * Mechanical Team Member
 * Off-season Competition Human Player (2016)
