@@ -190,23 +190,23 @@ what enables the user to customize the component.
 
 As this project continued, the engine GUI became more organized, and the engine itself had more features to customize. ll of the features for customization of the engine are sorted into just three tabs as pictured.
 
-Engine1
+![Engine1](http://natgrrl.github.io/assets/img/Engine1.jpg)
 
 Using the Engine tab (which controls the internal surfaces of the model related to the engine itself), Nacelle tab( controlling the outer shaping of the engine), and the strengths tab (which gets into the nitty gritty shaping of the crosssections and inlet), the model is fully customizable. The amazing thing and the big advantage about this is that by using one of the special features of VSP, an image or design model of an engine can be entered into the background of the CAD program. Using this, a very accurate model can be created in seconds just by using the sliders to match the engine model to the background image (as shown below).
 
-Engine 2
+![Engine2](http://natgrrl.github.io/assets/img/Engine2.jpg)
 
 Another main feature was the addition of subsurfaces into the model. This allows for quick meshing when it comes to CFD and allows the user to easily identify and tell the computer which surfaces of the engine would be experiencing which kind of fluid motion. THis involved a little bit more complicated code but was well worth it for the ease that it provided the user.
 
-Engine3
+![Engine3](http://natgrrl.github.io/assets/img/Engine3.jpg)
 
 The end goal of this was to get this engine exported into CFD analyzers so that with the quick and easy addition of accurate turbofan engines to aircraft models, the CFD calculations and data would be significantly more accurate. This is especially important seeing as a lot of drag and complications in fluid motion occur near the engines as that is where many disturbances happen.
 
-Engine 4
+![Engine4](http://natgrrl.github.io/assets/img/Engine4.jpg)
 
 The future work of this involved focusing even more on the inlet - one of the most complicated aspects of the engine when it comes to aerodynamics and CFD. The ways that this was approached are shown below:
 
-Engine 5
+![Engine5](http://natgrrl.github.io/assets/img/Engine5.jpg)
 
 All of this work was presented at the 2021 OpenVSP Workshop and can be watched below: https://www.youtube.com/watch?v=r9u_7KAEnsw
 
