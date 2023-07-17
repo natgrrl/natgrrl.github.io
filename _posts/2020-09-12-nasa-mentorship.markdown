@@ -208,7 +208,7 @@ The future work of this involved focusing even more on the inlet - one of the mo
 
 ![Engine5](http://natgrrl.github.io/assets/img/Engine5.jpg)
 
-All of this work was presented at the 2021 OpenVSP Workshop and can be watched below: [(https://www.youtube.com/watch?v=r9u_7KAEnsw)]
+All of this work was presented at the 2021 OpenVSP Workshop and can be watched below: (https://www.youtube.com/watch?v=r9u_7KAEnsw)
 
 
 
