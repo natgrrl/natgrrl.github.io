@@ -171,7 +171,7 @@ will probably be added later
 This week, two more sliders were added to the nacelle tab. These were
 max diameter and nacelle length. The max diameter allows the user to
 decide how big the widest part of the engine will be. This feature can be
-seen in the first picture below where it is slightly over exaggerated. Next,
+seen in the first picture below where it is slightly over-exaggerated. Next,
 the nacelle length was made a variable. This allows the user to control how
 long the portion of the engine from the front to the end of the nacelle is (this
 nacelle does not include any part of the core, it is the outermost shell). The
@@ -185,6 +185,32 @@ All of the defined variables in the code so far are shown below. These are
 what enables the user to customize the component.
 
 ![Nasa-18](http://natgrrl.github.io/assets/img/Nasa-18.jpg)
+
+## Work Continued Through Spring Semester (then into the summer)
+
+As this project continued, the engine GUI became more organized, and the engine itself had more features to customize. ll of the features for customization of the engine are sorted into just three tabs as pictured.
+
+Engine1
+
+Using the Engine tab (which controls the internal surfaces of the model related to the engine itself), Nacelle tab( controlling the outer shaping of the engine), and the strengths tab (which gets into the nitty gritty shaping of the crosssections and inlet), the model is fully customizable. The amazing thing and the big advantage about this is that by using one of the special features of VSP, an image or design model of an engine can be entered into the background of the CAD program. Using this, a very accurate model can be created in seconds just by using the sliders to match the engine model to the background image (as shown below).
+
+Engine 2
+
+Another main feature was the addition of subsurfaces into the model. This allows for quick meshing when it comes to CFD and allows the user to easily identify and tell the computer which surfaces of the engine would be experiencing which kind of fluid motion. THis involved a little bit more complicated code but was well worth it for the ease that it provided the user.
+
+Engine3
+
+The end goal of this was to get this engine exported into CFD analyzers so that with the quick and easy addition of accurate turbofan engines to aircraft models, the CFD calculations and data would be significantly more accurate. This is especially important seeing as a lot of drag and complications in fluid motion occur near the engines as that is where many disturbances happen.
+
+Engine 4
+
+The future work of this involved focusing even more on the inlet - one of the most complicated aspects of the engine when it comes to aerodynamics and CFD. The ways that this was approached are shown below:
+
+Engine 5
+
+All of this work was presented at the 2021 OpenVSP Workshop and can be watched below: https://www.youtube.com/watch?v=r9u_7KAEnsw
+
+
 
 
 
