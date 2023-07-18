@@ -2,7 +2,7 @@
 layout: post
 title: "UVA Rodman Engineering Project"
 date: 2022-01-15
-description: As a student invited to be a part of the UVA ENgineering Rodman Honors Program, one of the requirements is that we complete a semester where students break off into groups and work on a real-world engineering project with a client...  # Add post description (optional)
+description: As a student invited to be a part of the UVA Engineering Rodman Honors Program, one of the requirements is that we complete a semester where students break off into groups and work on a real-world engineering project with a client...  # Add post description (optional)
 img: archery1.png # Add image post (optional)
 tags: [ENGINEERING]
 ---
@@ -50,8 +50,31 @@ These allowed us to have a focused, open-ended brainstorming session:
 
 ![archery4](http://natgrrl.github.io/assets/img/archery4.png)
 
+I took a lot of these brainstorming and design techniques from the work that I used to do in robotics as [Mechanical Fabrication lead](https://natgrrl.github.io/mech-pit-lead-robotics/) From this initial brainstorming session, several obvious design paths began to emerge. We were able to create general groups of different concept paths to further explore, some of which we were able to eliminate through just ideation without needing to create physical prototypes. 
 
+## Design Paths
 
+![archery5](http://natgrrl.github.io/assets/img/archery5.png)
+
+![archery6](http://natgrrl.github.io/assets/img/archery6.png)
+
+![archery7](http://natgrrl.github.io/assets/img/archery7.png)
+
+![archery8](http://natgrrl.github.io/assets/img/archery8.png)
+
+Ultimately, we did not decide to pursue this last solution path because of:
+- Safety concerns about our mechanism being able to withstand the force of the bowstring under tension (10-50 lbs of force)
+  - By using the current trigger we already have a mechanism free of safety concerns to do this 
+- A lack of sufficient time to design a whole new, complicated mechanism
+- Difficulty in designing complex internal geometry
+  - It was hard to even conceptualize this geometry when we were drawing on the whiteboard 
+- It is more expensive to design a whole new product
+- Less accessible than something 3d printed 
+- Less feasible given general constraints regarding budget, proximity to the client for testing, etc.
+- Simplicity is key i.e. don't fix something that's not broken 
+- ONE OF THE MAIN GOALS WE ORIGINALLY DEFINED WAS ACCESSIBILITY 
+
+This was a huge decision that majorly helped us narrow down our solution direction - after this, we decided that we would be focused on modifying the current trigger mechanism instead of completely redesigning it
 
 
 
