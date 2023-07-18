@@ -16,6 +16,7 @@ After setting this project up for the next semester I acted as the point of cont
 ## How did We Explore?
 
 Gaining User Insights:
+
 We learned that finger dexterity is not the only user challenge – lack of strength, an uncomfortable strap, & unsteady trigger are also issues we must also address in design.
 
 ![archery2](http://natgrrl.github.io/assets/img/archery2.png)
@@ -25,26 +26,28 @@ We got to test out the equipment (we went to Rockwood Nature Center in Richmond 
 
 The next thing we did was brainstorm our FUNCTIONAL REQUIREMENTS:
 
-Be usable without finger dexterity - Finger dexterity is a major challenge for our target user
-Be safe - Doesn’t injure the user
-Be consistent - Allows for the development of a learnable skill
-Be comfortable
-Be secure
-Be durable
-Be stable - Reduces variability while aiming
-Be lightweight - Reduces exhaustion during use
-Be usable by different people
-Different hand sizes, body types, disabilities, etc.
-Modifiable/adjustable 
-Be widely accessible & obtainable
-Be financially affordable
-Be able to be used on different bows
-Be intuitive
-Be visually unintimidating
-Stay open until closed manually
+- Be usable without finger dexterity - Finger dexterity is a major challenge for our target user
+- Be safe - Doesn’t injure the user
+- Be consistent - Allows for the development of a learnable skill
+- Be comfortable
+- Be secure
+- Be durable
+- Be stable - Reduces variability while aiming
+- Be lightweight - Reduces exhaustion during use
+- Be usable by different people
+- Different hand sizes, body types, disabilities, etc.
+- Modifiable/adjustable 
+- Be widely accessible & obtainable
+- Be financially affordable
+- Be able to be used on different bows
+- Be intuitive
+- Be visually unintimidating
+- Stay open until closed manually
 
 These allowed us to have a focused, open-ended brainstorming session:
+
 ![archery3](http://natgrrl.github.io/assets/img/archery3.png)
+
 ![archery4](http://natgrrl.github.io/assets/img/archery4.png)
 
 
