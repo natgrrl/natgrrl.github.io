@@ -4,7 +4,7 @@ title: "UVA Rodman Engineering Project"
 date: 2022-01-15
 description: As a student invited to be a part of the UVA Engineering Rodman Honors Program, one of the requirements is that we complete a semester where students break off into groups and work on a real-world engineering project with a client...  # Add post description (optional)
 img: archery1.png # Add image post (optional)
-tags: [ENGINEERING]
+tags: [ENGINEERING] [LEADERSHIP]
 ---
 
 ## OVERVIEW
