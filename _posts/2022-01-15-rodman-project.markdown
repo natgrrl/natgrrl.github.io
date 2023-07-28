@@ -76,6 +76,21 @@ Ultimately, we did not decide to pursue this last solution path because of:
 
 This was a huge decision that majorly helped us narrow down our solution direction - after this, we decided that we would be focused on modifying the current trigger mechanism instead of completely redesigning it
 
+Next, we looked at the different How Might We's to help us center our focus and goals for the design:
 
+![archery9](http://natgrrl.github.io/assets/img/archery9.png)
+
+## Evaluation and Prototyping
+
+Prototyping - What Ideas did We Explore?
+- Category 1: Rotational trigger
+- Category 2: Reverse direction trigger
+- Category 3: Chin release
+  - As we began exploring these ideas further, we came up with an idea to use the chin’s downward movement to release the string instead of applying forward force with the face i.e. Opening the mouth and hitting a lever under the chin.
+  
+Process:
+- We first created whiteboard sketches, then further developed the most promising designs through CAD drawings, lo-fi prototypes, and finally 3D printed prototypes that were physically tested. This process is shown below.
+
+![archery10](http://natgrrl.github.io/assets/img/archery10.png)
 
 
