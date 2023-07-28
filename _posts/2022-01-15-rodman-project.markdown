@@ -93,4 +93,38 @@ Process:
 
 ![archery10](http://natgrrl.github.io/assets/img/archery10.png)
 
+Evaluation Methods - How Did We Evaluate Our Ideas?
+  Testing without & with Bow in Class
+    - This testing process showed us how the motion of releasing the trigger varied when releasing under tension and actual shooting conditions as opposed to testing the designs while they held nothing. This helped develop an idea of which designs would be the most viable to pursue.
+
+![archery11](http://natgrrl.github.io/assets/img/archery11.png)
+
+  Testing with Arrows & Bow
+    - This testing process gave us actual experience in how our product may be used, allowing us to test how accurate and precise our designs were.
+    - Actually see how safe each design is to use in a more realistic situation/most realistic use.
+
+![archery12](http://natgrrl.github.io/assets/img/archery12.png)    
+
+How & why we chose the final design (Reverse Direction Trigger):
+- Reverse Direction Trigger
+  - Pros: Simple mechanism, Safe, Easy to design, Didn’t involve complex CAD geometry, Utilized already existing components of the trigger
+  - Cons: Couldn’t adapt to all triggers, couldn’t easily load arrow
+    - Bottom Line: Simple & Safe, but Not Easy to Load Arrow
+
+- Rotational Trigger
+  - Pros: Simple mechanism, Could adapt to all triggers, Easy to load arrow
+  - Cons: Not safe enough (all force was on thin plastic piece), needed lots of forward motion to release
+    - Bottom Line: Simple & Easy to Load Arrow, but not Safe
+
+- Chin Trigger
+  - Pros: Not much extra motion required to release, Safe
+  - Cons: Trigger was under neck rather than chin for some people, making it difficult to release, Complex to put together
+    - Bottom Line: Safe, but not Simple to put together
+
+
+
+Overall, we decided to choose the Reverse Direction Trigger since safety (eliminated Rotational Trigger) and simplicity (eliminated Chin Trigger) were our top priorities – this was the only design that had both. 
+
+While the rotational trigger made it much easier to load the arrows into the trigger, the safety was not up to par and the only way to fix this was to make it out of a stronger material through a more complex machining process (making it less accessible to all users). Therefore, we decided to go with the Reverse Direction Trigger while developing a mechanism to allow it to fit all wrist calipers.
+
 
