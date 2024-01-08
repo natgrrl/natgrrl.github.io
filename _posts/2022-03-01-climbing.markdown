@@ -3,11 +3,12 @@ layout: post
 title: "Rock Climbing"
 date: 2015-06-13
 description: My favorite hobby # Add post description (optional)
-img: climbing10.png # Add image post (optional)
+img: climbing8.png # Add image post (optional)
 tags: [HOBBIES]
 ---
 
 ## CLIMBING PICTURES
+Rock CLimbing is my favorite hobby. I got involved first year of college and have since done a ton of both indoor and outdoor bouldering and ropes!
 
 ![climbing1](http://natgrrl.github.io/assets/img/climbing1.png)
 ![climbing2](http://natgrrl.github.io/assets/img/climbing2.png)
