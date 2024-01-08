@@ -3,7 +3,7 @@ layout: post
 title: "Virginia Motorsports"
 date: 2021-01-09
 description: I am a part of the Virginia Motorsports team at UVA where we build formula SAE cars from the ground up and race them # Add post description (optional)
-img: archery1.png # Add image post (optional)
+img: motorsports1.png # Add image post (optional)
 tags: [ENGINEERING] 
 ---
 
