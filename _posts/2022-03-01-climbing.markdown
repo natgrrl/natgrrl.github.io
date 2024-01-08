@@ -1,31 +1,31 @@
 ---
 layout: post
-title: "My Crochet Projects"
+title: "Rock Climbing"
 date: 2015-06-13
-description: My Crochet Projects # Add post description (optional)
-img: climbing10.jpg # Add image post (optional)
+description: My favorite hobby # Add post description (optional)
+img: climbing10.png # Add image post (optional)
 tags: [HOBBIES]
 ---
 
 ## CLIMBING PICTURES
 
-![climbing1](http://natgrrl.github.io/assets/img/climbing1.jpg)
-![climbing2](http://natgrrl.github.io/assets/img/climbing2.jpg)
-![climbing3](http://natgrrl.github.io/assets/img/climbing3.jpg)
-![climbing4](http://natgrrl.github.io/assets/img/climbing4.jpg)
-![climbing5](http://natgrrl.github.io/assets/img/climbing5.jpg)
-![climbing6](http://natgrrl.github.io/assets/img/climbing6.jpg)
-![climbing7](http://natgrrl.github.io/assets/img/climbing7.jpg)
-![climbing8](http://natgrrl.github.io/assets/img/climbing8.jpg)
-![climbing9](http://natgrrl.github.io/assets/img/climbing9.jpg)
-![climbing10](http://natgrrl.github.io/assets/img/climbing10.jpg)
-![climbing11](http://natgrrl.github.io/assets/img/climbing11.jpg)
-![climbing12](http://natgrrl.github.io/assets/img/climbing12.jpg)
-![climbing13](http://natgrrl.github.io/assets/img/climbing13.jpg)
-![climbing14](http://natgrrl.github.io/assets/img/climbing14.jpg)
-![climbing15](http://natgrrl.github.io/assets/img/climbing15.jpg)
-![climbing16](http://natgrrl.github.io/assets/img/climbing16.jpg)
-![climbing17](http://natgrrl.github.io/assets/img/climbing17.jpg)
-![climbing18](http://natgrrl.github.io/assets/img/climbing18.jpg)
-![climbing19](http://natgrrl.github.io/assets/img/climbing19.jpg)
-![climbing20](http://natgrrl.github.io/assets/img/climbing20.jpg)
+![climbing1](http://natgrrl.github.io/assets/img/climbing1.png)
+![climbing2](http://natgrrl.github.io/assets/img/climbing2.png)
+![climbing3](http://natgrrl.github.io/assets/img/climbing3.png)
+![climbing4](http://natgrrl.github.io/assets/img/climbing4.png)
+![climbing5](http://natgrrl.github.io/assets/img/climbing5.png)
+![climbing6](http://natgrrl.github.io/assets/img/climbing6.png)
+![climbing7](http://natgrrl.github.io/assets/img/climbing7.png)
+![climbing8](http://natgrrl.github.io/assets/img/climbing8.png)
+![climbing9](http://natgrrl.github.io/assets/img/climbing9.png)
+![climbing10](http://natgrrl.github.io/assets/img/climbing10.png)
+![climbing11](http://natgrrl.github.io/assets/img/climbing11.png)
+![climbing12](http://natgrrl.github.io/assets/img/climbing12.png)
+![climbing13](http://natgrrl.github.io/assets/img/climbing13.png)
+![climbing14](http://natgrrl.github.io/assets/img/climbing14.png)
+![climbing15](http://natgrrl.github.io/assets/img/climbing15.png)
+![climbing16](http://natgrrl.github.io/assets/img/climbing16.png)
+![climbing17](http://natgrrl.github.io/assets/img/climbing17.png)
+![climbing18](http://natgrrl.github.io/assets/img/climbing18.png)
+![climbing19](http://natgrrl.github.io/assets/img/climbing19.png)
+![climbing20](http://natgrrl.github.io/assets/img/climbing20.png)
