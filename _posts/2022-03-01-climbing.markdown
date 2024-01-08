@@ -8,7 +8,7 @@ tags: [HOBBIES]
 ---
 
 ## CLIMBING PICTURES
-Rock CLimbing is my favorite hobby. I got involved first year of college and have since done a ton of both indoor and outdoor bouldering and ropes!
+Rock Climbing is my favorite hobby. I got involved first year of college and have since done a ton of both indoor and outdoor bouldering and ropes!
 
 ![climbing1](http://natgrrl.github.io/assets/img/climbing1.png)
 ![climbing2](http://natgrrl.github.io/assets/img/climbing2.png)
