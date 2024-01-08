@@ -3,31 +3,11 @@ layout: post
 title: "My Crochet Projects"
 date: 2015-06-13
 description: My Crochet Projects # Add post description (optional)
-img: crochet5.jpg # Add image post (optional)
-tags: [HOBBIES, CROCHET]
+img: climbing10.jpg # Add image post (optional)
+tags: [HOBBIES]
 ---
 
-## ANOTHER PRODUCE BAG
-![crochet6](http://natgrrl.github.io/assets/img/crochet6.jpg)
-
-
-## BACK PACK
-
-BACK PACK 1 | BACK PACK 2
------------ | -----------
-![crochet4](http://natgrrl.github.io/assets/img/crochet4.jpg) | ![crochet5](http://natgrrl.github.io/assets/img/crochet5.jpg) 
-
-
-## BEACH BAG
-![crochet1](http://natgrrl.github.io/assets/img/crochet1.jpg)
-
-
-## PRODUCE BAG
-![crochet3](http://natgrrl.github.io/assets/img/crochet3.jpg)
-
-
-## SUMMER HALTER
-![crochet2](http://natgrrl.github.io/assets/img/crochet2.jpg)
+## CLIMBINg PICTURES
 
 
 
