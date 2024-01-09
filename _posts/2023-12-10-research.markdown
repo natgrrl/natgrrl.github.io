@@ -2,8 +2,8 @@
 layout: post
 title: "Fluid Mechanics Research"
 date: 2023-12-10
-description: Since second year I have been doing research with Professor Daniel Quin in the UVA link lab. Our research hopes to externally monitor breathing patterns such that events like asthma attacks can be predicted and prevented before they occur # Add post description (optional)
-img: archery1.png # Add image post (optional)
+description: Since my second year I have been doing research with Professor Daniel Quinn (Ph.D.) in the UVA link lab. Our research hopes to externally monitor breathing patterns such that events like asthma attacks can be predicted and prevented before they occur # Add post description (optional)
+img: research1.jpg # Add image post (optional)
 tags: [ENGINEERING] 
 ---
 
