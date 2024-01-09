@@ -3,7 +3,7 @@ layout: post
 title: "Advanced Mechatronics Guitar Design"
 date: 2023-12-15
 description: One of the projects in the invite-only advanced mechatronics class I was a part of was to design, CNC, wire up, and make a custom sound effects pedal for a homemade electric guitar. # Add post description (optional)
-img: guitar9.jpg # Add image post (optional)
+img: guitar2.jpg # Add image post (optional)
 tags: [ENGINEERING] 
 ---
 
