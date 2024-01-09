@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mechanics Lab Climbing Anchor Project"
+title: "Climbing Anchor Project"
 date: 2022-04-15
 description: In my second-year Mechanics Lab class, students had to complete a final project where we designed our own experiment. I chose to focus on something very applicable to my life-- rock climbing and the safety of different anchors  # Add post description (optional)
 img: climbing-project.jpg # Add image post (optional)
