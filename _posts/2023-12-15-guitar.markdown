@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "UVA Rodman Engineering Project"
-date: 2022-01-15
-description: As a student invited to be a part of the UVA Engineering Rodman Honors Program, one of the requirements is that we complete a semester where students break off into groups and work on a real-world engineering project with a client...  # Add post description (optional)
+title: "Advanced Mechatronics Guitar Project"
+date: 2023-12-15
+description: One of the projects in the invite-only advanced mechatronics class I was a part of was to design, CNC, wire up, and make a custom sound effects pedal for a homemade electric guitar. # Add post description (optional)
 img: archery1.png # Add image post (optional)
 tags: [ENGINEERING] 
 ---
