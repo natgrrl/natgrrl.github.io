@@ -20,10 +20,8 @@ OUTDOOR BOULDERING:
 
 
 INDOOR BOULDERING:
-![climbing6](http://natgrrl.github.io/assets/img/climbing6.png)
-![climbing9](http://natgrrl.github.io/assets/img/climbing9.png)
-![climbing10](http://natgrrl.github.io/assets/img/climbing10.png)
-![climbing18](http://natgrrl.github.io/assets/img/climbing18.png)
+![climbing6](http://natgrrl.github.io/assets/img/climbing6.png) | ![climbing9](http://natgrrl.github.io/assets/img/climbing9.png)
+![climbing10](http://natgrrl.github.io/assets/img/climbing10.png) | ![climbing18](http://natgrrl.github.io/assets/img/climbing18.png)
 
 
 VIA FERRATA - MURREN, SWITZERLAND:
