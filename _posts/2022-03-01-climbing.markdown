@@ -10,13 +10,16 @@ tags: [HOBBIES]
 ## CLIMBING PICTURES
 Rock Climbing is my favorite hobby. I got involved first year of college and have since done a ton of both indoor and outdoor bouldering and ropes!
 
------ | ----------- | -------------- 
-![climbing1](http://natgrrl.github.io/assets/img/climbing1.JPG) | ![climbing2](http://natgrrl.github.io/assets/img/climbing2.png) | ![climbing3](http://natgrrl.github.io/assets/img/climbing3.png)
+
+![climbing1](http://natgrrl.github.io/assets/img/climbing1.JPG)
 
 
+![climbing2](http://natgrrl.github.io/assets/img/climbing2.png) | ![climbing3](http://natgrrl.github.io/assets/img/climbing3.png)
 
-![climbing4](http://natgrrl.github.io/assets/img/climbing4.png)
-![climbing5](http://natgrrl.github.io/assets/img/climbing5.png)
+----------- | -------------- 
+
+![climbing4](http://natgrrl.github.io/assets/img/climbing4.png) | ![climbing5](http://natgrrl.github.io/assets/img/climbing5.png)
+
 ![climbing6](http://natgrrl.github.io/assets/img/climbing6.png)
 ![climbing7](http://natgrrl.github.io/assets/img/climbing7.png)
 ![climbing8](http://natgrrl.github.io/assets/img/climbing8.png)
