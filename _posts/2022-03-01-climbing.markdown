@@ -11,15 +11,15 @@ tags: [HOBBIES]
 Rock Climbing is my favorite hobby. I got involved first year of college and have since done a ton of both indoor and outdoor bouldering and ropes!
 
 OUTDOOR BOULDERING:
-![climbing1](http://natgrrl.github.io/assets/img/climbing1.JPG) | ![climbing17](http://natgrrl.github.io/assets/img/climbing17.png)
+![climbing1](http://natgrrl.github.io/assets/img/climbing1.JPG) 
+
+![climbing17](http://natgrrl.github.io/assets/img/climbing17.png) | ![climbing3](http://natgrrl.github.io/assets/img/climbing3.png)
 
 
-![climbing2](http://natgrrl.github.io/assets/img/climbing2.png) | ![climbing3](http://natgrrl.github.io/assets/img/climbing3.png)
-
-![climbing13](http://natgrrl.github.io/assets/img/climbing13.png)
+![climbing2](http://natgrrl.github.io/assets/img/climbing2.png) | ![climbing13](http://natgrrl.github.io/assets/img/climbing13.png)
 
 
-INDOOR BOULDERING AND ROPES:
+INDOOR BOULDERING:
 ![climbing6](http://natgrrl.github.io/assets/img/climbing6.png) | ![climbing9](http://natgrrl.github.io/assets/img/climbing9.png)
 ![climbing10](http://natgrrl.github.io/assets/img/climbing10.png) | ![climbing18](http://natgrrl.github.io/assets/img/climbing18.png)
 
@@ -33,16 +33,10 @@ VIA FERRATA - MURREN, SWITZERLAND:
 ![climbing20](http://natgrrl.github.io/assets/img/climbing20.png)
 
 OUTDOOR ROPES:
-![climbing7](http://natgrrl.github.io/assets/img/climbing7.png)
-
-
-
-
-
-
 ![climbing14](http://natgrrl.github.io/assets/img/climbing14.png)
 ![climbing15](http://natgrrl.github.io/assets/img/climbing15.png)
-![climbing16](http://natgrrl.github.io/assets/img/climbing16.png)
+![climbing16](http://natgrrl.github.io/assets/img/climbing16.png) | ![climbing7](http://natgrrl.github.io/assets/img/climbing7.png)
+
 
 
 
