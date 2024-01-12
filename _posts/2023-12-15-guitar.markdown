@@ -22,7 +22,7 @@ So instead I drew the lightning and guitar design on my Ipad and then exported i
 
 ## CAM and CNC machining
 
-After the main design was made we had to CNC both the body and the neck of the guitar. THe neck was the trickiest portion, as due to time constraints, we were not able to CAD the exact form of the neck(the only purchased part). So we got the main geometry equivalent and had to make sure it was centered and level on the machine. Below are some pictures of the machining process.
+After the main design was made we had to CNC both the body and the neck of the guitar. The neck was the trickiest portion, as due to time constraints, we were not able to CAD the exact form of the neck(the only purchased part of the body). So we got the main geometry equivalent and had to make sure it was centered and level on the machine. Below are some pictures of the machining process.
 
 
 ![guitar27](http://natgrrl.github.io/assets/img/guitar27.jpg) 
@@ -51,6 +51,9 @@ On the electronics side of things, we also learned how to distort sound and mani
 The circuit can be broken down into 4 different stages: the input stage, the effects stage, the tone stage, and the output stage shown below:
 
 ![input](http://natgrrl.github.io/assets/img/input.png)
+
 ![effects](http://natgrrl.github.io/assets/img/effects.png)
+
 ![tone](http://natgrrl.github.io/assets/img/tone.png)
+
 ![output](http://natgrrl.github.io/assets/img/output.png)
