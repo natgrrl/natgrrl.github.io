@@ -15,8 +15,8 @@ My work is a follow-up to the research that Ph.D. student [Lucy Fitzgerald](http
 
 ## Current Work
 
-Currently, we are working on combining the 2 types of predictors for asthma attacks (biosignals & Environment) into a mechanical device. This is a two-part monitoring system that will involve sending realtime retrieved and collected data to the internet of things along with using an on-person audio device to pick up on signals of impending trouble breathing such as increased coughing or wheezing.
+Currently, we are working on combining the 2 types of predictors for asthma attacks (biosignals & Environment) into a mechanical device. This is a two-part monitoring system that will involve sending real-time retrieved and collected data to the Internet of Things along with using an on-person audio device to pick up on signals of impending trouble breathing such as increased coughing or wheezing.
 
 ![research2](http://natgrrl.github.io/assets/img/research2.jpg)
-![research3](http://natgrrl.github.io/assets/img/research3.jpg)
+
 ![research4](http://natgrrl.github.io/assets/img/research4.jpg)
