@@ -9,9 +9,15 @@ tags: [ENGINEERING]
 
 ## OVERVIEW
 
-When my professor told all of his students that we were going to have to do work with an actual client and that he was open to suggestions I got very excited. I was inspired by the Assistive Technology (AT) work that I did in high school and wanted to continue this in college. After researching several potential clients, I reached out to the company [Sportable](https://sportable.org/) which is based out of Richmond and focuses on making sports accessible for those with disabilities. Although I had never worked with them previously, they got back to me and were very interested in working together! 
+This electric guitar project took up most of the semester in the Advanced Mechatronics class, as it perfectly combined design, mechanical fabrication, programming, and electrical engineering. It was one of the most challenging yet rewarding projects I have worked on!
 
-After setting this project up for the next semester I acted as the point of contact for my team of 5 other students while we worked on an adaptive archery project. This project was aimed at allowing those who have limited hand dexterity to fire a bow without the use of their fingers or other finer motor skills.
+The first step in this process was to decide on a design for a guitar. I had an idea of doing an ACDC thunderstruck guitar where the guitar's body was a cloud and the lighting shot up the neck. Our group even brainstormed about [ossibly making our own Lichtenberg wood burning to etch actual electricity into the neck using the tranformer from a microwave. We decided against this for a few reasons, the main two being that it was quite dangerous and the lightning pattern would not be controllable along the neck.
+
+So instead I drew the lightning and guitar design on my Ipad and then exported it as a drawing file and then traced that drawing onto the neck surface in Solidworks 
+
+
+![guitar25](http://natgrrl.github.io/assets/img/guitar25.png) | ![guitar26](http://natgrrl.github.io/assets/img/guitar26.png)
+
 
 ## How did We Explore?
 
