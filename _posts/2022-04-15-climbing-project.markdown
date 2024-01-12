@@ -9,15 +9,8 @@ tags: [ENGINEERING]
 
 ## OVERVIEW
 
-When my professor told all of his students that we were going to have to do work with an actual client and that he was open to suggestions I got very excited. I was inspired by the Assistive Technology (AT) work that I did in high school and wanted to continue this in college. After researching several potential clients, I reached out to the company [Sportable](https://sportable.org/) which is based out of Richmond and focuses on making sports accessible for those with disabilities. Although I had never worked with them previously, they got back to me and were very interested in working together! 
+Since I was given the opportunity to choose exactly what kind of final project I wanted to do for Mechanics Lab I knew that I wanted to do something applicable to my life. As one of my hobbies is rock climbing, and I am often in a situation where I have to build my own anchor outdoors, I decided I wanted to study the maximum tensile strength that different climbing anchors provide.
 
-After setting this project up for the next semester I acted as the point of contact for my team of 5 other students while we worked on an adaptive archery project. This project was aimed at allowing those who have limited hand dexterity to fire a bow without the use of their fingers or other finer motor skills.
-
-## How did We Explore?
-
-Gaining User Insights:
-
-We learned that finger dexterity is not the only user challenge – lack of strength, an uncomfortable strap, & unsteady trigger are also issues we must also address in design.
 
 ![archery2](http://natgrrl.github.io/assets/img/archery2.png)
 
