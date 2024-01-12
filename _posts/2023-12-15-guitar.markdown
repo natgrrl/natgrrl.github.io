@@ -27,3 +27,16 @@ After the main design was made we had to CNC both the body and the neck of the g
 
 ![guitar27](http://natgrrl.github.io/assets/img/guitar27.png) 
 ![guitar28](http://natgrrl.github.io/assets/img/guitar28.png)
+
+## Detailing and Wiring
+
+The trickiest part of this project was the wiring of the lights. Our initial idea involved having multiple stages of lights that went upwards along the neck of the guitar. We ended up using ten stages of different pockets of LED's that lit up consecutively so that the lightning bolt had the effect of shooting out of the cloud and down the neck of the guitar. This lightning shooting effect would be controlled by a bandpass filter that came from the pickups by the string. If the amplitude of the vibration was over a certain point, meaning that a large strum or strong note was being played, the lightning would shoot out from the cloud. The wiring proved very difficult thought as we had to be careful about the current that was going through the LED's and the very small wires we were using. We had to make sure that all of the wiring for each light would be able to fit inside the lightning cavity so that the epoxy could be flush with the fretboard. I am very much simplifying this process of wiring and setting up the electronics for the reading experience, however, this is definitely where a majority of the time on this project was spent. 6 4 3 
+
+![guitar6](http://natgrrl.github.io/assets/img/guitar6.jpg) 
+![guitar4](http://natgrrl.github.io/assets/img/guitar4.jpg)
+![guitar3](http://natgrrl.github.io/assets/img/guitar3.jpg)
+
+Additionally, we wanted the cloud to be treated as a separate entity so we made custom cutouts of clear acrylic that were etched with lightning patterns so that the electricity looked like it was moving through the cloud. THere were also three layers of acrylic to imitate the depth of the cloud. These layers were surrounded on the edges and side-lit with bright white light that would randomly flash every 10 or so seconds like a thunderstorm crackling.
+
+![guitar8](http://natgrrl.github.io/assets/img/guitar8.jpg)
+![guitar9](http://natgrrl.github.io/assets/img/guitar9.jpg)
