@@ -25,8 +25,8 @@ So instead I drew the lightning and guitar design on my Ipad and then exported i
 After the main design was made we had to CNC both the body and the neck of the guitar. THe neck was the trickiest portion, as due to time constraints, we were not able to CAD the exact form of the neck(the only purchased part). So we got the main geometry equivalent and had to make sure it was centered and level on the machine. Below are some pictures of the machining process.
 
 
-![guitar27](http://natgrrl.github.io/assets/img/guitar27.png) 
-![guitar28](http://natgrrl.github.io/assets/img/guitar28.png)
+![guitar27](http://natgrrl.github.io/assets/img/guitar27.jpg) 
+![guitar28](http://natgrrl.github.io/assets/img/guitar28.jpg)
 
 ## Detailing and Wiring
 
