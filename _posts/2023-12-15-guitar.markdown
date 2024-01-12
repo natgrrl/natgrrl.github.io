@@ -16,13 +16,14 @@ The first step in this process was to decide on a design for a guitar. I had an 
 So instead I drew the lightning and guitar design on my Ipad and then exported it as a drawing file and then traced that drawing onto the neck surface in Solidworks 
 
 
-![guitar25](http://natgrrl.github.io/assets/img/guitar25.png) | ![guitar26](http://natgrrl.github.io/assets/img/guitar26.png)
+![guitar25](http://natgrrl.github.io/assets/img/guitar25.png) 
+![guitar26](http://natgrrl.github.io/assets/img/guitar26.png)
 
 
-## How did We Explore?
+## CAM and CNC machining
 
-Gaining User Insights:
+After the main design was made we had to CNC both the body and the neck of the guitar. THe neck was the trickiest portion, as due to time constraints, we were not able to CAD the exact form of the neck(the only purchased part). So we got the main geometry equivalent and had to make sure it was centered and level on the machine. Below are some pictures of the machining process.
 
-We learned that finger dexterity is not the only user challenge – lack of strength, an uncomfortable strap, & unsteady trigger are also issues we must also address in design.
 
-![archery2](http://natgrrl.github.io/assets/img/archery2.png)
+![guitar27](http://natgrrl.github.io/assets/img/guitar27.png) 
+![guitar28](http://natgrrl.github.io/assets/img/guitar28.png)
