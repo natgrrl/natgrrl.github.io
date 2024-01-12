@@ -36,7 +36,21 @@ The trickiest part of this project was the wiring of the lights. Our initial ide
 ![guitar4](http://natgrrl.github.io/assets/img/guitar4.jpg)
 ![guitar3](http://natgrrl.github.io/assets/img/guitar3.jpg)
 
-Additionally, we wanted the cloud to be treated as a separate entity so we made custom cutouts of clear acrylic that were etched with lightning patterns so that the electricity looked like it was moving through the cloud. THere were also three layers of acrylic to imitate the depth of the cloud. These layers were surrounded on the edges and side-lit with bright white light that would randomly flash every 10 or so seconds like a thunderstorm crackling.
+Additionally, we wanted the cloud to be treated as a separate entity so we made custom cutouts of clear acrylic that were etched with lightning patterns so that the electricity looked like it was moving through the cloud. There were also three layers of acrylic to imitate the depth of the cloud. These layers were surrounded on the edges and side-lit with bright white light that would randomly flash every 10 or so seconds like a thunderstorm crackling.
 
 ![guitar8](http://natgrrl.github.io/assets/img/guitar8.jpg)
 ![guitar9](http://natgrrl.github.io/assets/img/guitar9.jpg)
+![guitar29](http://natgrrl.github.io/assets/img/guitar29.jpg)
+
+## Custom Sound Effects Pedal
+
+On the electronics side of things, we also learned how to distort sound and manipulate vibrational waves to change the way notes sounded. We called our custom effects pedal circuit the electrotremelo circuit as we designed it in such a way that it distorted the sound to be almost electric.
+
+![circuit](http://natgrrl.github.io/assets/img/circuit.png)
+
+The circuit can be broken down into 4 different stages: the input stage, the effects stage, the tone stage, and the output stage shown below:
+
+![input](http://natgrrl.github.io/assets/img/input.png)
+![effects](http://natgrrl.github.io/assets/img/effects.png)
+![tone](http://natgrrl.github.io/assets/img/tone.png)
+![output](http://natgrrl.github.io/assets/img/output.png)
