@@ -17,6 +17,7 @@ A few different kinds of anchors are used in different situations, and most of t
 
 The four different anchors I decided to test are seen below: 
 ![climbing-project1](http://natgrrl.github.io/assets/img/climbing-project1.png)
+
 It was predicted that the quad would be the strongest and the American Death Triangle would be the weakest.
 
 There are a few main traits that a good climbing anchor should have and they are described by the acronym SERENE. The quad encompasses these requirements the best and therefore is predicted to have the highest ultimate strength. 
@@ -28,20 +29,12 @@ In order to conduct this experiment, a custom-made plate setup had to be mounted
 The experiment was tested with two kinds of rope. One rope was a lot thicker and had a higher stated maximum strength. We wanted to make sure that we were able to get failure tests from all 4 of the anchors and it was predicted that the strength and elongation of some of the anchors with the stronger rope simply might not break. Some pictures from the trials can be seen below. 
 
 ## Stronger Rope
-![strong1](http://natgrrl.github.io/assets/img/strong1.jpg)
-
-![strong2](http://natgrrl.github.io/assets/img/strong2.jpg)
-
-![strong3](http://natgrrl.github.io/assets/img/strong3.jpg)
+![strong1](http://natgrrl.github.io/assets/img/strong1.jpg) | ![strong2](http://natgrrl.github.io/assets/img/strong2.jpg) | ![strong3](http://natgrrl.github.io/assets/img/strong3.jpg)
 
 ## Weaker Rope
-![weak1](http://natgrrl.github.io/assets/img/weak1.jpg)
+![weak1](http://natgrrl.github.io/assets/img/weak1.jpg) | ![weak2](http://natgrrl.github.io/assets/img/weak2.jpg)
 
-![weak2](http://natgrrl.github.io/assets/img/weak2.jpg)
-
-![weak3](http://natgrrl.github.io/assets/img/weak3.jpg)
-
-![weak4](http://natgrrl.github.io/assets/img/weak4.jpg)
+![weak3](http://natgrrl.github.io/assets/img/weak3.jpg) | ![weak4](http://natgrrl.github.io/assets/img/weak4.jpg)
 
 The results of the overall anchors can be seen below:
 ![climbing-project8](http://natgrrl.github.io/assets/img/climbing-project8.png)
