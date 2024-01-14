@@ -42,3 +42,12 @@ The experiment was tested with two kinds of rope. One rope was a lot thicker and
 ![weak3](http://natgrrl.github.io/assets/img/weak3.jpg)
 
 ![weak4](http://natgrrl.github.io/assets/img/weak4.jpg)
+
+The results of the overall anchors can be seen below:
+![climbing-project8](http://natgrrl.github.io/assets/img/climbing-project8.png)
+![climbing-project9](http://natgrrl.github.io/assets/img/climbing-project9.png)
+
+Some main conclusions were drawn:
+![climbing-project6](http://natgrrl.github.io/assets/img/climbing-project6.png)
+![climbing-project5](http://natgrrl.github.io/assets/img/climbing-project5.png)
+
