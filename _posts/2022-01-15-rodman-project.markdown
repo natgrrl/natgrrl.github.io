@@ -127,8 +127,9 @@ Overall, we decided to choose the Reverse Direction Trigger since safety (elimin
 
 While the rotational trigger made it much easier to load the arrows into the trigger, the safety was not up to par and the only way to fix this was to make it out of a stronger material through a more complex machining process (making it less accessible to all users). Therefore, we decided to go with the Reverse Direction Trigger while developing a mechanism to allow it to fit all wrist calipers.
 
-The final project was able to be tested with users and a summary video can be seen here (INSERT archery 18)
+The final project was able to be tested with users and a summary video can be seen [here] (https://drive.google.com/file/d/1CmH43s_NKplnKp1pEG5XZUED5HldLWbp/view?usp=sharing)
 
+Some other images from the design and testing process can be seen here:
 INSERT other videos and pictures archery 15-17
 
 
