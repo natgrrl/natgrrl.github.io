@@ -29,11 +29,16 @@ The experiment was tested with two kinds of rope. One rope was a lot thicker and
 
 ## Stronger Rope
 ![strong1](http://natgrrl.github.io/assets/img/strong1.jpg)
+
 ![strong2](http://natgrrl.github.io/assets/img/strong2.jpg)
+
 ![strong3](http://natgrrl.github.io/assets/img/strong3.jpg)
 
 ## Weaker Rope
 ![weak1](http://natgrrl.github.io/assets/img/weak1.jpg)
+
 ![weak2](http://natgrrl.github.io/assets/img/weak2.jpg)
+
 ![weak3](http://natgrrl.github.io/assets/img/weak3.jpg)
+
 ![weak4](http://natgrrl.github.io/assets/img/weak4.jpg)
