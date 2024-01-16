@@ -13,9 +13,9 @@ I participate in Virginia Motorsports where we build a Formula SAE car and get t
 
 ## Pictures
 
-![motosports21](http://natgrrl.github.io/assets/img/motorsports21.jpg)
+![motorsports21](http://natgrrl.github.io/assets/img/motorsports21.jpg)
 
-![motosports3](http://natgrrl.github.io/assets/img/motorsports3.png)
+![motorsports3](http://natgrrl.github.io/assets/img/motorsports3.jpg)
 
-![motosports1](http://natgrrl.github.io/assets/img/motorsports1.png)
+![motorsports1](http://natgrrl.github.io/assets/img/motorsports1.png)
 
