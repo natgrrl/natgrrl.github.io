@@ -1,1 +1,1 @@
-This past summer I had the oppurtunity to travel to the 2024 AIAA Aviation Forum in Las Vegas Nevada and present a paper that I wrote following my internship at the GOvernor's School for Science in Technology. (link project)
+This past summer I had the opportunity to travel to the 2024 AIAA Aviation Forum in Las Vegas Nevada and present a paper that I wrote following my internship at the Governor's School for Science in Technology. (link project)
