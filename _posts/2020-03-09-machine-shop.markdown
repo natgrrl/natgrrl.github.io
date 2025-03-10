@@ -17,8 +17,8 @@ DRILLING OUT THE CENTER OF HEX SHAFTS USING THE LATHE | FINISHED HEX SHAFTS
 ![hax-shafts](http://natgrrl.github.io/assets/img/shop-hex-shaft.jpg) | ![shop1](http://natgrrl.github.io/assets/img/shop1.jpg)
 
 ## WELDING
-![welding1](http://natgrrl.github.io/assets/img/welding1.png)
-![welding2](http://natgrrl.github.io/assets/img/welding2.png)
+---------------------------|----------------------
+![welding1](http://natgrrl.github.io/assets/img/welding1.png) | ![welding2](http://natgrrl.github.io/assets/img/welding2.png)
 ![welding3](http://natgrrl.github.io/assets/img/welding3.jpg)
 ![welding4](http://natgrrl.github.io/assets/img/welding4.jpg) | ![welding5](http://natgrrl.github.io/assets/img/welding5.jpg)
 
