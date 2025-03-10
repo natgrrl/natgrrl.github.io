@@ -13,7 +13,7 @@ Currently, many medical students get their first hands-on experience manually se
 <embed src="/assets/Prospectus.pdf" width="500" height="500" type="application/pdf">
 
 ## DRF Fracture Pattern
-![Capstone1](http://natgrrl.github.io/assets/img/Capstone1.png)
+![Capstone2](http://natgrrl.github.io/assets/img/Capstone2.png)
 
 ## Medical Simulators
 My team and I are collaborating with Dr. Aaron Freilich at the UVA Orthopedic Center to design this device. He has been working closely with us and has shown us a plethora of other really interesting medical simulators.
@@ -28,4 +28,4 @@ We are currently working on adding a worm gear mechanism in the base to allow th
 
 ![Capstone5](http://natgrrl.github.io/assets/img/Capstone5.jpg)
 
-![Capstone2](http://natgrrl.github.io/assets/img/Capstone2.png)
+![Capstone1](http://natgrrl.github.io/assets/img/Capstone1.png)
