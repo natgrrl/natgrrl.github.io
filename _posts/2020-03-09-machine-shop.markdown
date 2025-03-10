@@ -19,10 +19,10 @@ DRILLING OUT THE CENTER OF HEX SHAFTS USING THE LATHE | FINISHED HEX SHAFTS
 ## WELDING
 
 ME TIG WELDING | PRACTICE PIECES
----------------|----------------------
-![welding1](http://natgrrl.github.io/assets/img/welding1.png) | ![welding4](http://natgrrl.github.io/assets/img/welding4.png)
----------------|----------------------
-![welding2](http://natgrrl.github.io/assets/img/welding2.jpg) | ![welding5](http://natgrrl.github.io/assets/img/welding5.jpg) 
+-----------------------------------------------|----------------------
+![welding1](http://natgrrl.github.io/assets/img/welding1.png) | ![welding4](http://natgrrl.github.io/assets/img/welding4.jpg)
+-----------------------------------------------|----------------------
+![welding2](http://natgrrl.github.io/assets/img/welding2.png) | ![welding5](http://natgrrl.github.io/assets/img/welding5.jpg) 
 
 ![welding3](http://natgrrl.github.io/assets/img/welding3.jpg)
 
