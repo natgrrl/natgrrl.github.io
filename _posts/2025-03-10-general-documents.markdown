@@ -8,6 +8,7 @@ tags: [ENGINEERING]
 ---
 
 ## Transcript
+<embed src="/assets/UndergraduateTranscript.pdf" width="750" height="900" type="application/pdf">
 
 ## CV
 <embed src="/assets/Resume.pdf" width="750" height="900" type="application/pdf">
