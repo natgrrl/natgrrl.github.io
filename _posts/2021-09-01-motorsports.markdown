@@ -15,7 +15,8 @@ I participate in Virginia Motorsports where we build a Formula SAE car and get t
 
 ![motorsports21](http://natgrrl.github.io/assets/img/motorsports21.jpg)
 
-![motorsports3](http://natgrrl.github.io/assets/img/motorsports3.jpg)
+![motorsports3](http://natgrrl.github.io/assets/img/motorsports3.JPG)
 
 ![motorsports1](http://natgrrl.github.io/assets/img/motorsports1.png)
 
+![welding2](http://natgrrl.github.io/assets/img/welding2.png)
