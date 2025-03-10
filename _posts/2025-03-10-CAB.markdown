@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UVA Center for Applied Biomechanics"
-date: 2025-03-10
+date: 2025-03-05
 description: I started interning at the UVA Center for Applied Biomechanics During my third year at UVA. After taking my Strength of Materials Class with Dr. Richard Kent and hearing about some of his biomechanics work, I knew I had to get involved. While I was always interested in working at the intersection of mechanical engineering, biomedical engineering, and medicine, this was my first exposure to the biomechanics field. I reached out to Dr. Jason Forman at the CAB where I began working on one of his research projects studying automotive safety for pregnant women. I worked with him throughout the spring semester and then continued my work into a full-time summer internship at the CAB in 2024.
 img: ![CAB2](http://natgrrl.github.io/assets/img/CAB2.jpg)
 tags: [ENGINEERING]
