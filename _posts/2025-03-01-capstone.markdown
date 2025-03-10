@@ -10,11 +10,10 @@ tags: [ENGINEERING, CAD]
 
 ![Capstone1](http://natgrrl.github.io/assets/img/Capstone1.png)
 
-![Capstone2](http://natgrrl.github.io/assets/img/Capstone2.png)
-
 ![Capstone3](http://natgrrl.github.io/assets/img/Capstone3.jpg)
 
 ![Capstone4](http://natgrrl.github.io/assets/img/Capstone4.jpg)
 
 ![Capstone5](http://natgrrl.github.io/assets/img/Capstone5.jpg)
 
+![Capstone2](http://natgrrl.github.io/assets/img/Capstone2.png)
