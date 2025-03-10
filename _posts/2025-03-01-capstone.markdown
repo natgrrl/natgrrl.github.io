@@ -7,12 +7,24 @@ img: Capstone2.png
 tags: [ENGINEERING, CAD]
 ---
 
+Currently, many medical students get their first hands-on experience manually setting a wrist fracture by performing the procedure on an injured patient under guidance from an experienced doctor. Although a few DRF reduction simulation devices are on the market, the more realistic models range from $800 to $2700. Additionally, some of the more popular devices are designed after a 6’2 male, which is not representative of the general population that experiences DRF. My prospectus for my thesis paper is shown below and details a little more about my project and the goal of designing an affordable and accessible 3D-printed DRF reduction simulator.
 
+## My Thesis Prospectus
+<embed src="/assets/Prospectus.pdf" width="500" height="500" type="application/pdf">
+
+## DRF Fracture Pattern
 ![Capstone1](http://natgrrl.github.io/assets/img/Capstone1.png)
+
+## Medical Simulators
+My team and I are collaborating with Dr. Aaron Freilich at the UVA Orthopedic Center to design this device. He has been working closely with us and has shown us a plethora of other really interesting medical simulators.
 
 ![Capstone3](http://natgrrl.github.io/assets/img/Capstone3.jpg)
 
+## Basic Prototype
 ![Capstone4](http://natgrrl.github.io/assets/img/Capstone4.jpg)
+
+## Updated Design and CAD 
+We are currently working on adding a worm gear mechanism in the base to allow the tendons(elastic bands) to be individually tightened, representing the varying muscle and soft tissue forces that different patients exert on the fragment. We are also adding a mounting mechanism to the base that enables medical students to wrap a splint around the bottom of the forearm and practice casting it.
 
 ![Capstone5](http://natgrrl.github.io/assets/img/Capstone5.jpg)
 
