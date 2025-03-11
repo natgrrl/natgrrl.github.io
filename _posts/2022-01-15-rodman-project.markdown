@@ -13,6 +13,9 @@ When my professor told all of his students that we were going to have to do work
 
 After setting this project up for the next semester I acted as the point of contact for my team of 5 other students while we worked on an adaptive archery project. This project was aimed at allowing those who have limited hand dexterity to fire a bow without the use of their fingers or other finer motor skills.
 
+
+The final project was able to be tested with users and a summary video can be seen [here](https://drive.google.com/file/d/1WB49R7MnZrwQu6P4tHvOCiDpmt0XPUth/view?usp=sharing)
+
 ## How did We Explore?
 
 Gaining User Insights:
@@ -127,12 +130,6 @@ Overall, we decided to choose the Reverse Direction Trigger since safety (elimin
 
 While the rotational trigger made it much easier to load the arrows into the trigger, the safety was not up to par and the only way to fix this was to make it out of a stronger material through a more complex machining process (making it less accessible to all users). Therefore, we decided to go with the Reverse Direction Trigger while developing a mechanism to allow it to fit all wrist calipers.
 
-The final project was able to be tested with users and a summary video can be seen [here](https://drive.google.com/file/d/1WB49R7MnZrwQu6P4tHvOCiDpmt0XPUth/view?usp=sharing)
 
-Some other images from the design and testing process can be seen here:
-
-![archery15](http://natgrrl.github.io/assets/img/archery15.png)
-![archery16](http://natgrrl.github.io/assets/img/archery16.png)
-![archery17](http://natgrrl.github.io/assets/img/archery17.png)
 
 
