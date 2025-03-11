@@ -3,7 +3,7 @@ layout: post
 title: "General Documents"
 date: 2025-03-10
 description: I am a fourth-year Mechanical Engineering Student at the University of Virginia with a minor in Biomedical Engineering and an interest in Biomechanics. 
-img: resume.png
+img: academics.jpg
 tags: [ENGINEERING]
 ---
 
