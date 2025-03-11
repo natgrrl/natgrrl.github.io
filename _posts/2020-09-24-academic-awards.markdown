@@ -9,6 +9,20 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 
 ## ACADEMICS
 
+# College
+* Rodman Scholar | University of Virginia | Top 10% of incoming engineering class | 2021 - 2025
+* Dean’s List | University of Virginia | 2021 - 2025
+* Technical Presenter and Conference Paper Publication | AIAA Aviation Forum | 2024
+* Valedictorian | Menchville Highschool | GPA: 4.71 / 5 | 2021
+* Seal of Biliteracy in Spanish | Virginia Board of Education | 2021
+* AIAA Roger W. Kahn Scholarship Recipient | $10,000 + $2,500 stipend | 2021
+* AIAA Futures in Aerospace Scholarship | $3000 | 2021
+* Southern Automotive Women Scholarship | $2500 | 2021
+* FIRST Robotics Competition Dean’s List Nominee | 2020
+
+
+
+# Highschool
 * Senior at Menchville High School:  Rank 1 out of 329 with a 4.68 GPA. 
 * Senior in the Engineering Strand at the [Governor’s School for Science and Technology](https://nhrec.org/gsst/) (GSST)
 * Currently working in a [NASA Mentorship](https://natgrrl.github.io/nasa-mentorship/)
