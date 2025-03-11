@@ -2,14 +2,14 @@
 layout: post
 title: "Fluid Mechanics Research"
 date: 2023-12-10
-description: Since my second year I have been doing research with Professor Daniel Quinn (Ph.D.) in the UVA link lab. Our research hopes to externally monitor breathing patterns such that events like asthma attacks can be predicted and prevented before they occur # Add post description (optional)
+description: During my second and third years I did research with Professor Daniel Quinn (Ph.D.) in the UVA link lab. Our research hopes to externally monitor breathing patterns such that events like asthma attacks can be predicted and prevented before they occur # Add post description (optional)
 img: research1.jpg # Add image post (optional)
 tags: [ENGINEERING] 
 ---
 
 ## OVERVIEW
 
-My work is a follow-up to the research that Ph.D. student [Lucy Fitzgerald](https://engineering.virginia.edu/news/2020/05/good-creating-accessible-medical-technology-all) was working on. Lucy was able to successfully implant a very small sensor into the airway of a rabbit and have it detect when an asthma attack was occurring. The first live testing of this kind of device!
+My work is a follow-up to the research that Ph.D. student Lucy Fitzgerald was working on. Lucy was able to successfully implant a very small sensor into the airway of a rabbit and have it detect when an asthma attack was occurring. The first live testing of this kind of device!
 
 [Professor Daniel Quinn](https://news.virginia.edu/content/engineers-physician-collaborating-detect-impending-asthma-attacks) and I want to make this type of tracking 1) able to predict an asthma attack BEFORE it happens and 2) non-invasive.
 
