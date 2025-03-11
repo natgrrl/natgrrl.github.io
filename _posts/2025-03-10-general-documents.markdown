@@ -11,10 +11,7 @@ tags: [ENGINEERING]
 <embed src="/assets/UndergraduateTranscript.pdf" width="500" height="500" type="application/pdf">
 
 ## CV
-<embed src="/assets/Resume.pdf" width="500" height="500" type="application/pdf">
-
-## Resume
-<embed src="/assets/CV.pdf" width="500" height="500" type="application/pdf">
+<embed src="/assets/CV_3.11.25.pdf" width="500" height="500" type="application/pdf">
 
 ## Publications
 This past summer I had the opportunity to travel to the 2024 AIAA Aviation Forum in Las Vegas Nevada and present a paper that I wrote following my internship at the Governor's School for Science in Technology. (link project)
