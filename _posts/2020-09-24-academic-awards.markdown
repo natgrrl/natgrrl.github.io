@@ -10,7 +10,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 ## ACADEMICS
 
 # College
-* Rodman Scholar | University of Virginia | Top 10% of incoming engineering class in 2021 - 2025
+* Rodman Scholar | University of Virginia | Top 5% of incoming engineering class in 2021 - 2025
 * Dean’s List | University of Virginia in 2021 - 2025
 * Technical Presenter and Conference Paper Publication | AIAA Aviation Forum in 2024
 * Valedictorian | Menchville Highschool | GPA: 4.71 / 5 in 2021
@@ -23,7 +23,7 @@ tags: [ACADEMICS, AWARDS, LEADERSHIP]
 
 
 # Highschool
-* Senior at Menchville High School:  Rank 1 out of 329 with a 4.68 GPA. 
+* Senior at Menchville High School:  Rank 1 out of 329 with a 4.71 GPA. 
 * Senior in the Engineering Strand at the [Governor’s School for Science and Technology](https://nhrec.org/gsst/) (GSST)
 * Currently working in a [NASA Mentorship](https://natgrrl.github.io/nasa-mentorship/)
 * [Virginia Aerospace Science and Technology Scholar](https://natgrrl.github.io/vasts/)(VASTS)
