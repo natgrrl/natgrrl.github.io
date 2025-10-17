@@ -11,7 +11,7 @@ My entire thesis portfolio is published [here](https://doi.org/10.18130/4jv0-en4
 Currently, many medical students get their first hands-on experience manually setting a wrist fracture by performing the procedure on an injured patient under guidance from an experienced doctor. Although a few DRF reduction simulation devices are on the market, the more realistic models range from $800 to $2700. Additionally, some of the more popular devices are designed after a 6’2 male, which is not representative of the general population that experiences DRF. My capstone project involved an iterative and hands-on design process to design a more affordable and accessible DRF reduction simulator. The technical report below details the design process and the techniques we used to ensure its efficacy, including FEA, structural calculations, and tensile testing!
 
 ## Technical Report
-<embed src="/assets/Prospectus.pdf" width="750" height="900" type="application/pdf">
+<embed src="/assets/TechnicalReport.pdf" width="750" height="900" type="application/pdf">
 
 ## DRF Fracture Pattern
 ![Capstone2](http://natgrrl.github.io/assets/img/Capstone2.png)
