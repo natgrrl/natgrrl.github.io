@@ -14,7 +14,7 @@ Currently, many medical students get their first hands-on experience manually se
 While the report itself is quite detailed, a quick scroll through, glancing at all of the figures and images, will provide a great idea of the iterative design process and mechanical engineering calculations!
 <embed src="/assets/TechnicalReport.pdf" width="750" height="900" type="application/pdf">
 
-<video src="http://natgrrl.github.io/assets" width="640" height="360" controls></video>
+<video src="http://natgrrl.github.io/assets/WristReductionDevice.mp4" width="640" height="360" controls></video>
 
 ## DRF Fracture Pattern
 ![Capstone2](http://natgrrl.github.io/assets/img/Capstone2.png)
