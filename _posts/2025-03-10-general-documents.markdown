@@ -2,7 +2,7 @@
 layout: post
 title: "General Documents"
 date: 2025-03-10
-description: I am a fourth-year Mechanical Engineering Student at the University of Virginia with a minor in Biomedical Engineering and an interest in Biomechanics. 
+description: I recently graduated with high distinction from the University of Virginia with a major in Mechanical Engineering, minor in Biomedical Engineering, and an interest in Biomechanics. Now I am finishing up a few master's classes and expect to receive my Master of Engineering degree in Mechanical Engineering this December 2025!
 img: education.jpg
 tags: [ENGINEERING]
 ---
