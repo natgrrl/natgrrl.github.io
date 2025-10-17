@@ -15,7 +15,7 @@ While the report itself is quite detailed, a quick scroll through, glancing at a
 <embed src="/assets/TechnicalReport.pdf" width="750" height="900" type="application/pdf">
 
 ## Video of Final Design
-<video src="http://natgrrl.github.io/assets/WristReductionDevice.mp4" width="180" height="320" controls ></video>
+<video src="http://natgrrl.github.io/assets/WristReductionDevice.mp4" width="360" height="640" controls ></video>
 
 
 ## DRF Fracture Pattern
