@@ -8,7 +8,7 @@ tags: [ENGINEERING]
 ---
 
 ## OVERVIEW
-I have 8 years of experience with using machine shop tools, including the mill, lathe, drill press, mitre saw, band saw, hand drills, soldering, belt sanders, dremels, angle grinders, and even some welding.  As the mechanical fabrication lead on my high school robotics team, I was also responsible for training mechanical sub-team members on using these tools safely.
+I have 8 years of experience with using machine shop tools, including the mill, lathe, drill press, mitre saw, band saw, hand drills, soldering, belt sanders, dremels, angle grinders, and even some welding.  As the mechanical fabrication lead on my high school robotics team, I was also responsible for training mechanical sub-team members on using these tools safely. In college, I continued honing my skills as a member of the Formula SAE racing team and utilized everything I had learned on many hands-on mechanical engineering projects.
 
 ## GEAR BOX HEX SHAFTS I MADE ON THE LATHE & BANDSAW
 
@@ -52,4 +52,5 @@ DRILLING OUT THE CENTER OF HEX SHAFTS USING THE LATHE | FINISHED HEX SHAFTS
 ![shop12](http://natgrrl.github.io/assets/img/shop12.jpg)
 
 ![shop13](http://natgrrl.github.io/assets/img/shop13.jpg)
+
 
