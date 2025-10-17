@@ -15,6 +15,7 @@ While the report itself is quite detailed, a quick scroll through, glancing at a
 <embed src="/assets/TechnicalReport.pdf" width="750" height="900" type="application/pdf">
 
 ## Video of Final Design
+The video shows a key feature of this device: that it has several equilibrium positions. The first is the completely broken wrist seen at the beginning of the video, where a doctor would have to apply around 15 lbs of traction to set the fracture. The next state of equilibrium is the set position; however, the tricky part about this project was designing the device in a way that made this state easy to disrupt. One of the goals our doctor had was for the reduced position to be unstable, such that a medical student would have to practice splinting the bone to ensure it stays aligned. The second part of the video shows the unstable, set position and how the fragment can easily displace to its third equilibrium, which is where the bone is not as displaced as it was before reduction, but it would require splinting.
 <video src="http://natgrrl.github.io/assets/WristReductionDevice.mp4" width="360" height="640" controls ></video>
 
 
