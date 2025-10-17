@@ -9,6 +9,8 @@ tags: [ENGINEERING]
 
 ## OVERVIEW
 
+<video src="http://natgrrl.github.io/assets/GuitarLights.mp4" width="640" height="360" controls></video>
+
 This electric guitar project took up most of the semester in the Advanced Mechatronics class, as it perfectly combined design, mechanical fabrication, programming, and electrical engineering. It was one of the most challenging yet rewarding projects I have worked on!
 
 The first step in this process was to decide on a design for a guitar. I had an idea of doing an ACDC thunderstruck guitar where the guitar's body was a cloud and the lighting shot up the neck. Our group even brainstormed about possibly making our own Lichtenberg wood burning to etch actual electricity into the neck using the tranformer from a microwave. We decided against this for a few reasons, the main two being that it was quite dangerous and the lightning pattern would not be controllable along the neck.
