@@ -16,14 +16,18 @@ After setting this project up for the next semester I acted as the point of cont
 ## Trigger Mechanism
 
 Current method:
+
 ![Trigger3](http://natgrrl.github.io/assets/Trigger3.png)
 
-AT Trigger Design
+AT Trigger Design:
+
 ![Trigger1](http://natgrrl.github.io/assets/Trigger1.png)
 
 ![Trigger2](http://natgrrl.github.io/assets/Trigger2.png)
 
+
 Reloading Plate:
+
 ![Reloading1](http://natgrrl.github.io/assets/Reloading1.png)
 
 <video src="http://natgrrl.github.io/assets/ArcheryVideo.mp4" width="800" height="300" controls ></video>
