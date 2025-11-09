@@ -14,7 +14,7 @@ When my professor told all of his students that we were going to have to do work
 After setting this project up for the next semester I acted as the point of contact for my team of 5 other students while we worked on an adaptive archery project. This project was aimed at allowing those who have limited hand dexterity to fire a bow without the use of their fingers or other finer motor skills.
 
 ## Trigger
-![Trgiger3](http://natgrrl.github.io/assets/img/Trigger3.png)
+![Trigger3](http://natgrrl.github.io/assets/img/Trigger3.png)
 
 ![Trigger1](http://natgrrl.github.io/assets/img/Trigger1.png)
 
