@@ -13,6 +13,17 @@ When my professor told all of his students that we were going to have to do work
 
 After setting this project up for the next semester I acted as the point of contact for my team of 5 other students while we worked on an adaptive archery project. This project was aimed at allowing those who have limited hand dexterity to fire a bow without the use of their fingers or other finer motor skills.
 
+## Trigger
+![Trigger1](http://natgrrl.github.io/assets/img/Trigger1.png)
+![Trigger2](http://natgrrl.github.io/assets/img/Trigger2.png)
+![Trgiger3](http://natgrrl.github.io/assets/img/Trigger3.png)
+![Reloading1](http://natgrrl.github.io/assets/img/Reloading1.png)
+
+<video src="http://natgrrl.github.io/assets/ArcheryVideo.mp4" width="360" height="640" controls ></video>
+
+
+
+
 
 The final project was able to be tested with users and a summary video can be seen [here](https://drive.google.com/file/d/1WB49R7MnZrwQu6P4tHvOCiDpmt0XPUth/view?usp=sharing)
 
